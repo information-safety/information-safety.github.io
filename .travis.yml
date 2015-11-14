@@ -2,7 +2,9 @@ language: ruby
 rvm:
 - 2.1
 
-script: bundle exec htmlproof
+install: gem install html-proofer
+
+script: htmlproof
 
 env:
   global:
