@@ -18,7 +18,13 @@
 
 .masthead-logo {
   width: 10rem;
-  margin-left: 2rem;
+  margin: auto;
+  padding-bottom: 1rem;
+
+  @media (min-width: 45rem) {
+    float: left;
+    margin-left: 2rem;
+  }
 }
 
 .masthead-title {
@@ -45,9 +51,7 @@
 
   a {
     display: inline-block;
-    padding: 0.75rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding: 0.5rem;
   }
 
   a:hover {
