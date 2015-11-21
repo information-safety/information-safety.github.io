@@ -1,0 +1,34 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Infomation Safety
+tagline:             Improving information security through lessons from safety.
+url:                 http://www.information-safety.org
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Links to include in the masthead.
+masthead_links:       
+  About:             '/about/'
+  Blog:              '/'
+  Resources:         '/resources/'
+  Contribute:        '/contribute/'
+
+# Google Analytics web tracking code
+google_analytics:    UA-70082859-1
+
+# Poole Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole

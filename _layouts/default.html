@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="masthead">
+      <img align=left class="masthead-logo" alt="ISO 7010 warning sign" src="{{ site.baseurl }}/public/iso-7010-w001.svg">    
+      <div class="container content">
+        <h1 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        </h1>
+        <h2 class="masthead-tagline">
+          {{ site.tagline }}
+        </h2>
+        <ul class="masthead-navbar">
+            {% for link in site.masthead_links %}
+              <li><a href="{{ link[1]  }}">{{ link[0] }}</a></li>
+            {% endfor %}
+        </ul>
+      </div>
+    </header>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+        </small>
+      </footer>
+    </div>
+
+  {% include analytics.html %}
+  </body>
+</html>
