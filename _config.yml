@@ -11,7 +11,7 @@ relative_permalinks: true
 title:               Infomation Safety
 tagline:             Improving information security through lessons from safety.
 url:                 http://www.information-safety.org
-paginate:            1
+paginate:            4
 baseurl:             ""
 
 # Assets
