@@ -2,9 +2,9 @@ language: ruby
 rvm:
 - 2.1
 
-install: gem install jekyll html-proofer
+install: gem install html-proofer
 
-script: jekyll build && htmlproof ./_site
+script: bundle exec jekyll build && htmlproof ./_site
 
 env:
   global:
