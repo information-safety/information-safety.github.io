@@ -1,3 +1,6 @@
+# Exclude Travis CI vendor directory
+exclude: [vendor]
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
