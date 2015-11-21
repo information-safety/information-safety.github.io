@@ -3,4 +3,4 @@
 
 This is the public source repository for the Information Safety GitHub pages site.
 
-Built with [jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com). Thanks to @joshualande for posting [instructions](http://joshualande.com/jekyll-github-pages-poole/) on getting up and running with Poole.
+Built with [jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com). Thanks to [@joshualande](https://github.com/joshualande) for posting [instructions](http://joshualande.com/jekyll-github-pages-poole/) on getting up and running with Poole.
