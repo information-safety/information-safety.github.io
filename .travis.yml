@@ -4,7 +4,7 @@ rvm:
 
 install: gem install html-proofer
 
-script: htmlproof
+script: htmlproof ./_site
 
 env:
   global:
