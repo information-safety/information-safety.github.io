@@ -16,8 +16,9 @@ title: Home
 
     {{ post.content }}
 
+    {% if post.comments %}
     <a class="comment" href="{{ site.baseurl }}{{ post.url }}">comment</a>
-
+    {% endif %}
   </article>
   {% endfor %}
 </div>
