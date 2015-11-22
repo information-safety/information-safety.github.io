@@ -28,6 +28,9 @@ masthead_links:
   Resources:         '/resources/'
   Contribute:        '/contribute/'
 
+# Disqus settings
+disqus_url:          information-safety
+
 # Google Analytics web tracking code
 google_analytics:    UA-70082859-1
 
