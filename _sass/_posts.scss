@@ -20,13 +20,17 @@
 }
 
 // Meta data line below post title
-.post-date {
+.post-date,
+.post-author {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
-}
 
+  a {
+    color: #9a9a9a; 
+  }
+}
 
 // Related posts
 .related {

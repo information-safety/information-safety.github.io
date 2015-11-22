@@ -12,7 +12,12 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <span datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}
+    {% if post.author %}
+      {% assign author = site.data.members[post.author] %}
+        &middot; <a href="https://github.com/{{ author.github }}">@{{ author.github }}</a>
+      {% endif %}
+    </span>
 
     {{ post.content }}
 

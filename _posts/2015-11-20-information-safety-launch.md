@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Information Safety Launch
+author: jabenninghoff
 comments: true
 ---
 
