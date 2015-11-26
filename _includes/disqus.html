@@ -1,4 +1,4 @@
-{% if site.disqus_url and page.comments %}
+{% if site.disqus_url and page.comments and jekyll.environment == "production" %}
 <!-- Disqus -->
 <div id="disqus_thread"></div>
 <script>
