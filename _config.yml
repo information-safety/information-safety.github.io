@@ -5,7 +5,8 @@ exclude: [vendor]
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks no longer work in Jekyll v3
+#relative_permalinks: true
 
 # Setup
 title:               Infomation Safety
@@ -22,7 +23,7 @@ sass:
   style:            :compressed
 
 # Links to include in the masthead.
-masthead_links:       
+masthead_links:
   About:             '/about/'
   Blog:              '/'
   Resources:         '/resources/'

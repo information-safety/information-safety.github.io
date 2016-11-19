@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler
 rvm:
-- 2.1
+- 2.3.1
 
 script: JEKYLL_ENV=production bundle exec jekyll build && bundle exec htmlproof --check-favicon --check-html ./_site
 
