@@ -35,6 +35,9 @@ disqus_url:          information-safety
 # Google Analytics web tracking code
 google_analytics:    UA-70082859-1
 
+# github-metadata setting
+repository: information-safety/information-safety.github.io
+
 # Poole Custom vars
 version:             2.0.0
 github:
