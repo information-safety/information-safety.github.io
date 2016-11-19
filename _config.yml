@@ -35,10 +35,8 @@ disqus_url:          information-safety
 # Google Analytics web tracking code
 google_analytics:    UA-70082859-1
 
-# github-metadata setting
-repository: information-safety/information-safety.github.io
-
+# poole custom vars prevent travis from working properly (invokes github-metadata)
 # Poole Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+#version:             2.0.0
+#github:
+#  repo:              https://github.com/poole/poole
