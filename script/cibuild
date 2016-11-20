@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer --check-favicon --check-html ./_site
+bundle exec htmlproofer --check-favicon --check-html --check-opengraph ./_site
