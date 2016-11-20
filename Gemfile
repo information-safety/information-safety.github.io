@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
-gem 'github-pages', '104', group: :jekyll_plugins
+
+require 'json'
+require 'open-uri'
+version = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+ruby version['ruby']
+gem 'github-pages', version['github-pages'], group: :jekyll_plugins
 gem 'html-proofer', group: :htmlproofer

@@ -153,6 +153,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 104)
   html-proofer
+  json
 
 RUBY VERSION
    ruby 2.3.1p112
