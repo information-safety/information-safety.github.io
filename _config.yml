@@ -2,11 +2,7 @@
 exclude: [vendor]
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-# relative_permalinks no longer work in Jekyll v3
-#relative_permalinks: true
 
 # Setup
 title:               Infomation Safety
@@ -40,3 +36,8 @@ google_analytics:    UA-70082859-1
 #version:             2.0.0
 #github:
 #  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
