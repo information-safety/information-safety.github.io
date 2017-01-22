@@ -17,9 +17,12 @@ layout: null
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
+   {% if post.author %}
+   {% assign author = site.data.members[post.author] %}
    <author>
-     <name>{{ post.author.name }}</name>
+     <name>{{ author.name }}</name>
    </author>
+   {% endif %}
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
