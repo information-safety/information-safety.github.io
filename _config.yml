@@ -37,7 +37,7 @@ google_analytics:    UA-70082859-1
 #github:
 #  repo:              https://github.com/poole/poole
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist
