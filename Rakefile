@@ -4,7 +4,7 @@ require 'html-proofer'
 desc 'build site'
 task :build do
   begin
-    sh 'bundle exec jekyll build'
+    sh 'JEKYLL_ENV="CI" bundle exec jekyll build'
   rescue => msg
     puts "#{msg}"
   end
