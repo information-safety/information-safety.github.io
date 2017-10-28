@@ -179,6 +179,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
+    json (2.0.2)
     kramdown (1.14.0)
     liquid (4.0.0)
     listen (3.0.6)
@@ -199,6 +200,7 @@ GEM
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
+    rake (12.2.1)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -228,6 +230,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 166)
   html-proofer
+  json
+  rake
 
 RUBY VERSION
    ruby 2.4.0p0
