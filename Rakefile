@@ -1,7 +1,7 @@
 abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 
-desc 'remove all cache files'
+desc 'remove all local files'
 task :distclean do
   begin
     sh 'rm -rf `cat .gitignore`'
