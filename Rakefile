@@ -1,10 +1,19 @@
 abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 
+desc 'update gems'
+task :update do
+  begin
+    sh 'gem update --system'
+    sh 'bundle update'
+  rescue => msg
+    puts "#{msg}"
+  end
+end
+
 desc 'build site'
 task :build do
   begin
-    sh 'gem update --system'
     sh 'JEKYLL_ENV="production" bundle exec jekyll build'
   rescue => msg
     puts "#{msg}"
