@@ -1,12 +1,9 @@
 language: ruby
-cache: bundler
 rvm:
 - 2.4.0
 
-script:
- - bundle exec rake test
-
 cache:
+  bundler: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer #https://github.com/gjtorikian/html-proofer/issues/381
 
@@ -20,3 +17,6 @@ addons:
     - libcurl4-openssl-dev # required to avoid SSL errors
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
+script:
+ - bundle exec rake test
