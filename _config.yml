@@ -1,5 +1,5 @@
 # Exclude Travis CI vendor directory
-exclude: [vendor]
+exclude: [tmp, vendor]
 
 # Permalinks
 permalink:           pretty
