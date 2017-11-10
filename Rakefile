@@ -1,11 +1,20 @@
 abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 
+desc 'remove all cache files'
+task :distclean do
+  begin
+    sh 'rm -rf `cat .gitignore`'
+  rescue => msg
+    puts "#{msg}"
+  end
+end
+
 desc 'update gems'
 task :update do
   begin
-    sh 'gem update --system'
     sh 'bundle update'
+    sh 'bundle clean'
   rescue => msg
     puts "#{msg}"
   end
