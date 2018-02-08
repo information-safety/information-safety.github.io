@@ -10,6 +10,7 @@ task :distclean do
   end
 end
 
+# bundle exec rake update does not work as expected
 desc 'update gems'
 task :update do
   begin
