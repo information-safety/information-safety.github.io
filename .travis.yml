@@ -3,7 +3,7 @@ language: ruby
 cache:
   bundler: true
   directories:
-  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer #https://github.com/gjtorikian/html-proofer/issues/381
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer # https://github.com/gjtorikian/html-proofer/issues/381
 
 env:
   global:
@@ -15,6 +15,11 @@ addons:
     - libcurl4-openssl-dev # required to avoid SSL errors
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
+# https://docs.travis-ci.com/user/languages/ruby/#bundler-20
+# before_install:
+#   - gem update --system
+#   - gem install bundler
 
 script:
  - bundle exec rake test
