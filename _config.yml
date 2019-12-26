@@ -1,22 +1,39 @@
-# Exclude Travis CI vendor directory
-exclude: [tmp, vendor]
-
-# Permalinks
-permalink:           pretty
-
 # Setup
 title:               Infomation Safety
 tagline:             Improving technology through lessons from safety.
 url:                 https://www.information-safety.org
 paginate:            4
 baseurl:             ""
+permalink:           pretty
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .bundle
+  - .editorconfig
+  - .git
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - bootstrap.sh
+  - poole-LICENSE.md
+  - tmp
+  - vendor
+
 sass:
   sass_dir:          _sass
-  style:            :compressed
+  style:             :compressed
 
 # Links to include in the masthead.
 masthead_links:
@@ -28,16 +45,13 @@ masthead_links:
 # Disqus settings
 disqus_url:          information-safety
 
-# Google Analytics web tracking code
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
 google_analytics:    UA-70082859-1
 
 # poole custom vars prevent travis from working properly (invokes github-metadata)
-# Poole Custom vars
-#version:             2.0.0
+# Custom vars
+#version:             3.0.0
 #github:
 #  repo:              https://github.com/poole/poole
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
