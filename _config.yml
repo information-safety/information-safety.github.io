@@ -49,7 +49,7 @@ disqus_url:          information-safety
 # Replace this value and uncomment to enable Google Analytics tracking
 google_analytics:    UA-70082859-1
 
-# poole custom vars prevent travis from working properly (invokes github-metadata)
+# poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
 # Custom vars
 #version:             3.0.0
 #github:
