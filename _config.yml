@@ -10,7 +10,6 @@ permalink:           pretty
 plugins:
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-seo-tag
 
 # Optimize Jekyll
 exclude:
