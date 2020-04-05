@@ -22,7 +22,7 @@ title: Home
     {{ post.content }}
 
     {% if post.comments %}
-    <a class="comment" href="{{ site.baseurl }}{{ post.url }}">comment</a>
+    <a class="comment" href="{{ post.url | relative_url }}">comment</a>
     {% endif %}
   </article>
   {% endfor %}
