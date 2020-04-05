@@ -18,16 +18,16 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 * [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 * [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
 * [Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/)
-* [Secure360](https://secure360.org/)
+* [Secure360](https://secure360.org)
 
 ## Chaos & Resilience Engineering
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
 * [Simian Army](https://github.com/Netflix/SimianArmy) (retired)
 * [Chaos Engineering Book](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
 * [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
-* [Gremlin](https://www.gremlin.com/) (free, limited feature version available for up to 5 nodes)
+* [Gremlin](https://www.gremlin.com) (free, limited feature version available for up to 5 nodes)
 * [Gremlin Demo](https://github.com/jabenninghoff/gremlin-demo)
-* [Principles of Chaos Engineering](https://principlesofchaos.org/):
+* [Principles of Chaos Engineering](https://principlesofchaos.org):
   1. Start by defining ‘steady state’ as some measurable output of a system that indicates normal behavior.
   1. Hypothesize that this steady state will continue in both the control group and the experimental group.
   1. Introduce variables that reflect real world events like servers that crash, hard drives that malfunction, network connections that are severed, etc.
