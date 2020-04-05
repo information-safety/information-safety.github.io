@@ -38,8 +38,15 @@
   margin-top: -.5rem;
   margin-bottom: var(--spacer);
   color: var(--gray-600);
+
+  a {
+    color: inherit;
+  }
 }
 
+a.comment {
+  color: var(--gray-600);
+}
 
 // Related posts
 .related {
