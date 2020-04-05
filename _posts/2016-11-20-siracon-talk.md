@@ -10,4 +10,4 @@ The talk was the result of my attendance at the [2016 STAMP workshop](https://ps
 
 STPA has been shown to identify hazards more efficiently and effectively than traditional safety methods such as fault tree analysis, identifying more hazards in a shorter period of time, and I believe STPA-Sec can do the same for information risk analysis, by more effectively identifying and communicating risks than existing threat modeling techniques. Even so, STPA-Sec is still a work in progress, and I found gaps in the model when applying it to a simple banking application: it does not directly address confidentiality as that isn't generally a safety concern.
 
-You can download the slides from SIRAcon [here](/public/siracon2016-benninghoff-stpa-sec.pdf).
+You can download the slides from SIRAcon [here](/assets/siracon2016-benninghoff-stpa-sec.pdf).
