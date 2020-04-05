@@ -3,38 +3,38 @@
 // Super small header above the content for site name and short description.
 
 .masthead {
-  padding-top:    2rem;
-  padding-bottom: 2rem;
-  margin-bottom: 4rem;
+  padding-top: var(--spacer-2);
+  padding-bottom: var(--spacer-2);
+  margin-bottom: var(--spacer-3);
   text-align: center;
-  color: $black;
-  background-color: $safety;
-
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
-}
-
-.masthead-logo {
-  width: 10rem;
-  margin: auto;
-  padding-bottom: 1rem;
-
-  @media (min-width: 45rem) {
-    float: left;
-    margin-left: 2rem;
-  }
+  color: var(--black);
+  background-color: var(--safety);
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 3rem;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  small {
+    font-weight: 400;
+    opacity: .5;
+  }
+}
+
+.masthead-logo {
+  width: 10rem;
+  float: left;
+  margin-left: var(--spacer-2);
 }
 
 .masthead-tagline {
-  font-size: 1rem;
+  font-size: inherit;
   font-weight: normal;
 }
 
@@ -50,11 +50,13 @@
   }
 
   a {
+    color: inherit;
+    text-decoration: none;
     display: inline-block;
     padding: 0.5rem;
   }
 
   a:hover {
-    background-color: $safety-2
+    background-color: var(--safety-2);
   }
 }
