@@ -40,6 +40,7 @@ masthead_links:
   Blog:              '/'
   Resources:         '/resources/'
   Contribute:        '/contribute/'
+  Archive:           'archive'
 
 # Disqus settings
 disqus_url:          information-safety
