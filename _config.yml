@@ -27,6 +27,7 @@ exclude:
   - Rakefile
   - bootstrap.sh
   - poole-LICENSE.md
+  - poole-sass.patch
   - tmp
   - vendor
 
