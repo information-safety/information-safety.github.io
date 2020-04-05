@@ -5,9 +5,9 @@ author: jabenninghoff
 comments: true
 ---
 
-I've previously [written](https://transvasive.com/?p=21) about how aviation safety has proven to be successful by measurably reducing over time the number of fatalities per mile flown. Fire Safety in the US has a [similar story](http://freakonomics.com/2011/03/24/freakonomics-radio-death-by-fire-probably-not/).
+I've previously [written](https://transvasive.com/?p=21) about how aviation safety has proven to be successful by measurably reducing over time the number of fatalities per mile flown. Fire Safety in the US has a [similar story](https://freakonomics.com/podcast/freakonomics-radio-death-by-fire-probably-not/).
 
-What are the elements of a successful safety program and how can we apply these elements to security programs? Comparison of the [SUBSAFE](https://en.wikipedia.org/wiki/SUBSAFE) program and [PhishMe's](https://phishme.com) offering, along with my own experience implementing a vulnerability management (VM) program at a previous company suggest that successful safety or security risk management programs share common features:
+What are the elements of a successful safety program and how can we apply these elements to security programs? Comparison of the [SUBSAFE](https://en.wikipedia.org/wiki/SUBSAFE) program and [PhishMe's](https://cofense.com) offering, along with my own experience implementing a vulnerability management (VM) program at a previous company suggest that successful safety or security risk management programs share common features:
 
 * Explicit Goals
 * Defined Activities
@@ -48,4 +48,4 @@ The lessons from these three disparate risk management approaches is clear: esta
 
 [^fn-accident]: [<cite>Engineering a Safer World</cite>](https://mitpress.mit.edu/books/engineering-safer-world), pp 75, 181-185
 
-[^fn-SUBSAFE]: [<cite>Sullivan Testimony on SUBSAFE</cite>](http://www.navy.mil/navydata/testimony/safety/sullivan031029.txt)
+[^fn-SUBSAFE]: [<cite>Sullivan Testimony on SUBSAFE</cite>](https://www.navy.mil/navydata/testimony/safety/sullivan031029.txt)

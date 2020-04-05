@@ -23,7 +23,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 ## Chaos & Resilience Engineering
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
 * [Simian Army](https://github.com/Netflix/SimianArmy) (retired)
-* [Chaos Engineering Book](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
+* [Chaos Engineering Book](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
 * [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [Gremlin](https://www.gremlin.com/) (free, limited feature version available for up to 5 nodes)
 * [Gremlin Demo](https://github.com/jabenninghoff/gremlin-demo)
@@ -33,7 +33,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
   1. Introduce variables that reflect real world events like servers that crash, hard drives that malfunction, network connections that are severed, etc.
   1. Try to disprove the hypothesis by looking for a difference in steady state between the control group and the experimental group.
 * [Resilience Engineering Book](https://www.crcpress.com/Resilience-Engineering-Concepts-and-Precepts/Woods-Hollnagel/p/book/9780754649045)
-* [Four Potentials of Resilience](http://erikhollnagel.com/ideas/resilience%20assessment%20grid.html)
+* [Four Potentials of Resilience](https://erikhollnagel.com/ideas/resilience%20assessment%20grid.html)
 * [Etsy Blameless Post-Mortem](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 
 ## How to get started and join the movement
