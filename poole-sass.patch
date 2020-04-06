@@ -4,7 +4,7 @@ diff -ru _sass/_base.scss ../information-safety.github.io/_sass/_base.scss
 @@ -6,6 +6,7 @@
    box-sizing: border-box;
  }
-
+ 
 +html,
  body {
    margin: 0;
@@ -14,21 +14,21 @@ diff -ru _sass/_base.scss ../information-safety.github.io/_sass/_base.scss
  a {
    color: var(--link-color);
 +  text-decoration: none;
-
+ 
    // `:focus` is linked to `:hover` for basic accessibility
    &:hover,
    &:focus {
      color: var(--link-hover-color);
 +    text-decoration: underline;
    }
-
+ 
    strong {
 diff -ru _sass/_layout.scss ../information-safety.github.io/_sass/_layout.scss
 --- _sass/_layout.scss	2020-04-05 09:43:03.000000000 -0500
 +++ ../information-safety.github.io/_sass/_layout.scss	2020-04-05 16:57:57.000000000 -0500
 @@ -3,7 +3,7 @@
  // Styles for managing the structural hierarchy of the site.
-
+ 
  .container {
 -  max-width: 45rem;
 +  max-width: 50rem;
@@ -37,10 +37,10 @@ diff -ru _sass/_layout.scss ../information-safety.github.io/_sass/_layout.scss
    margin-left:  auto;
 diff -ru _sass/_masthead.scss ../information-safety.github.io/_sass/_masthead.scss
 --- _sass/_masthead.scss	2020-04-05 09:43:03.000000000 -0500
-+++ ../information-safety.github.io/_sass/_masthead.scss	2020-04-05 17:52:06.000000000 -0500
++++ ../information-safety.github.io/_sass/_masthead.scss	2020-04-05 19:39:24.000000000 -0500
 @@ -3,13 +3,18 @@
  // Super small header above the content for site name and short description.
-
+ 
  .masthead {
 -  padding-top: var(--spacer);
 -  padding-bottom: var(--spacer);
@@ -51,23 +51,28 @@ diff -ru _sass/_masthead.scss ../information-safety.github.io/_sass/_masthead.sc
 +  color: var(--black);
 +  background-color: var(--safety);
  }
-
+ 
  .masthead-title {
 +  margin-top: 0;
    margin-bottom: 0;
 +  font-size: 3rem;
-
+ 
    a {
      color: inherit;
-@@ -21,3 +26,37 @@
+@@ -21,3 +26,42 @@
      opacity: .5;
    }
  }
 +
 +.masthead-logo {
 +  width: 10rem;
-+  float: left;
-+  margin-left: var(--spacer-2);
++  margin: auto;
++  padding-bottom: var(--spacer);
++
++  @media (min-width: 40rem) {
++    float: left;
++    margin-left: var(--spacer-2);
++  }
 +}
 +
 +.masthead-tagline {
@@ -102,7 +107,7 @@ diff -ru _sass/_posts.scss ../information-safety.github.io/_sass/_posts.scss
 +++ ../information-safety.github.io/_sass/_posts.scss	2020-04-05 18:11:01.000000000 -0500
 @@ -32,13 +32,21 @@
  }
-
+ 
  // Meta data line below post title
 +.post-author,
  .post-date {
@@ -115,11 +120,11 @@ diff -ru _sass/_posts.scss ../information-safety.github.io/_sass/_posts.scss
 +    color: inherit;
 +  }
  }
-
+ 
 +a.comment {
 +  color: var(--gray-600);
 +}
-
+ 
  // Related posts
  .related {
 diff -ru _sass/_variables.scss ../information-safety.github.io/_sass/_variables.scss
@@ -128,7 +133,7 @@ diff -ru _sass/_variables.scss ../information-safety.github.io/_sass/_variables.
 @@ -26,8 +26,12 @@
    --blue-400: #4dabf7;
    --yellow-100: #fff3bf;
-
+ 
 -  --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 -  --body-font-size: 16px;
 +  --black: #000000;
