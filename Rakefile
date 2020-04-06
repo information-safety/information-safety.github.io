@@ -30,6 +30,15 @@ task :build do
   end
 end
 
+desc 'run vnu validator'
+task :vnu => :build do
+  begin
+    sh 'vnu --skip-non-html --also-check-css --also-check-svg --format text _site'
+  rescue => msg
+    puts "#{msg}"
+  end
+end
+
 desc 'verify links'
 task :test => :build do
   options = {
