@@ -45,7 +45,7 @@ task :test => :build do
       :report_mismatched_tags => true,
       :report_missing_doctype => true,
       :report_missing_names => true,
-      :report_script_embeds => true
+      :report_script_embeds => true,
     },
     :cache => {
       :timeframe => '1d'
