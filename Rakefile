@@ -33,13 +33,17 @@ end
 desc 'verify links'
 task :test => :build do
   options = {
-    :check_sri => true,
     :check_external_hash => true,
     :check_favicon => true,
     :check_opengraph => true,
     :check_html => true,
     :check_img_http => true,
+    :check_sri => true,
     :validation => {
+      :report_eof_tags => true,
+      :report_invalid_tags => true,
+      :report_mismatched_tags => true,
+      :report_missing_doctype => true,
       :report_missing_names => true,
       :report_script_embeds => true
     },
