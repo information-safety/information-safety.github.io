@@ -54,4 +54,4 @@ the incident management process](https://research.tilburguniversity.edu/en/publi
 * DevOps -- build stuff
   * [Google DevOps](https://cloud.google.com/devops)
   * *[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/)* - [Nicole Forsgren](https://nicolefv.com), Jez Humble, Gene Kim
-* infomation-safety.org [resources](/resources/)
+* information-safety.org [resources](/resources/)
