@@ -6,6 +6,8 @@ comments: true
 ---
 I'm speaking at [Secure360](https://secure360.org) on May 5, 2020, presenting an updated version of ["*Chaos & Resilience Engineering*"](https://secure360.org/session/john-benninghoff-chaos-resilience-engineering-my-journey/?conference=11809&date=20200505). As I've done [before]({% post_url 2019-09-15-chaos-resilience-engineering %}), I won't be posting copies of the slides. Instead, I'm posting an updated list of references from the talk here.
 
+*Note: this post includes some additional references that are not in the final version of the talk (italicized)*
+
 My story is told in three acts: My journey to find chaos engineering (ACT I), Chaos engineering and how resilience engineering complements it (ACT II), What I’ve learned so far (ACT III), and How to get started with chaos & resilience engineering (END).
 
 ## ACT I: My Journey to Chaos Engineering
@@ -30,8 +32,8 @@ My story is told in three acts: My journey to find chaos engineering (ACT I), Ch
 ## ACT III: What I’ve learned so far
 * Lesson 1: Incident Management Teams in Technology are similar to those in Oil & Gas
   * Crichton, M. T., Lauche, K., & Flin, R. (2005). [Incident Command Skills in the Management of an Oil Industry Drilling Incident: a Case Study](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5973.2005.00466.x) ([PDF](https://www.academia.edu/38675561/Incident_Command_Skills_in_the_Management_of_an_Oil_Industry_Drilling_Incident_a_Case_Study))
-  * Muhren, W. J., van den Eede, G. G. P., & van de Walle, B. A. (2007). [Organizational learning for
-the incident management process](https://research.tilburguniversity.edu/en/publications/organizational-learning-for-the-incident-management-process-lesso) ([PDF](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1131&context=ecis2007))
+  * *Muhren, W. J., van den Eede, G. G. P., & van de Walle, B. A. (2007). [Organizational learning for
+the incident management process](https://research.tilburguniversity.edu/en/publications/organizational-learning-for-the-incident-management-process-lesso) ([PDF](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1131&context=ecis2007))*
   * [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Endsley's_model)
   * Dossier 1: A socio-technical case study of an IT major incident management team
 * Lesson 2: Safety has risk assessment methods that can be applied to computer systems
@@ -51,7 +53,7 @@ the incident management process](https://research.tilburguniversity.edu/en/publi
 * Resilience Engineering -- fix stuff
   * [Resilience engineering papers](https://github.com/lorin/resilience-engineering) ([Where do I start?](https://github.com/lorin/resilience-engineering/blob/master/intro.md) page)
   * [Learning from Incidents in Software](https://www.learningfromincidents.io)
-* DevOps -- build stuff
-  * [Google DevOps](https://cloud.google.com/devops)
-  * *[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/)* - [Nicole Forsgren](https://nicolefv.com), Jez Humble, Gene Kim
+* *DevOps -- build stuff*
+  * *[Google DevOps](https://cloud.google.com/devops)*
+  * *[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) - [Nicole Forsgren](https://nicolefv.com), Jez Humble, Gene Kim*
 * information-safety.org [resources](/resources/)
