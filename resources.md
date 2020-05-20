@@ -12,6 +12,11 @@ Recommended reading on safety risk management.
 * [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world) - a free MIT book introducing STAMP (Systems-Theoretic Accident Modeling and Processes) and STPA (STAMP-Based Process Analysis)
 * [MIT Partnership for a Systems Approach to Safety (PSAS)](https://psas.scripts.mit.edu/home/)
 
+## Short essays
+* [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) - Erik Hollnagel's account of the origins of Resilience Engineering
+* [Resilience Assessment Grid](https://erikhollnagel.com/ideas/resilience%20assessment%20grid.html) - recommended for the succinct description of the four potentials of resilient performance in the beginning of the essay: Respond, Monitor, Learn, Anticipate
+* [The NO view of 'human error'](https://erikhollnagel.com/ideas/no-view-of-human-error.html) - argues that we should stop using 'human error' as an explanation for accidents/failures as it is not helpful
+
 ## Introductory books
 
 * [Normal Accidents: Living with High-Risk Technologies](https://en.wikipedia.org/wiki/Normal_Accidents) - an older but influential book written by Charles Perrow, a sociologist, in the aftermath of the [Three Mile Island accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) - Perrow's ideas of coupling and complexity are still valid today
