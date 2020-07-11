@@ -32,6 +32,12 @@ Recommended reading on safety risk management.
 * Hollnagel, E., Wears, R. L., & Braithwaite, J. (2015). From Safety-I to Safety-II: a white paper, [PDF](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf) - an evolution of Hollnagel's concept of Resilience Engineering, making the case that safety should focus not just on accidents (when things go unexpectedly poorly), but the full range of outcomes
 * Dekker, S. W. A. (2017). [Rasmussen's legacy and the long arm of rational choice](https://www.sciencedirect.com/science/article/abs/pii/S0003687016300254?via%3Dihub), [PDF](http://sidneydekker.com/wp-content/uploads/2017/09/RasmussenLongArm.pdf) - the paper explores the moral aspects behind our tendency to blame people for causing accidents, and how blame can be harmful
 
+## Graduate Degree Programs
+Three programs with graduates active in the IT Resilience Engineering community:
+* [Human Factors & System Safety](http://www.humanfactors.lth.se) at Lund University, Sweden - this is where John Allspaw ([thesis](https://lup.lub.lu.se/student-papers/search/publication/8084520)) and others active in the 'learning from incidents' community have pursued their degrees, including J Paul Reed ([thesis](https://lup.lub.lu.se/student-papers/search/publication/8966930)) - 1 or 2 year program, with mandatory on-site learning labs.
+* [Cognitive Systems Engineering](https://ise.osu.edu/faculty-research/cognitive-systems-engineering) at *The* Ohio State University - David Woods is on faculty, and Laura Maguire completed her PhD here ([talk based on her work](https://www.infoq.com/presentations/incident-command-system/))
+* [Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/) at Trinity College Dublin, Ireland - I am currently pursuing my MSc in Psychology here, and will post my thesis when it's done! 2 year masters program, all online. A broader curriculum than Human Factors & Systems Safety, covering: human factors and sociotechnical systems safety, organizational change, safety risk assessment and risk management, design, organizational psychology and leadership, human resources, statistics, and research methodology.
+
 ## Other curated lists
 * [@dastergon](https://dastergon.gr)'s [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [@dastergon](https://dastergon.gr)'s [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
