@@ -48,4 +48,4 @@ The lessons from these three disparate risk management approaches is clear: esta
 
 [^fn-accident]: [<cite>Engineering a Safer World</cite>](https://mitpress.mit.edu/books/engineering-safer-world), pp 75, 181-185
 
-[^fn-SUBSAFE]: [<cite>Sullivan Testimony on SUBSAFE</cite>](https://www.navy.mil/navydata/testimony/safety/sullivan031029.txt)
+[^fn-SUBSAFE]: [<cite>Sullivan Testimony on SUBSAFE</cite>](https://web.archive.org/web/20191211191407/https://www.navy.mil/navydata/testimony/safety/sullivan031029.txt)
