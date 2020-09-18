@@ -7,7 +7,7 @@ Recommended reading and other resources for safety risk management.
 
 ## Original recommendations
 
-* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - a short introduction by Richard Cook applying systems thinking to safety
+* [How Complex Systems Fail](https://how.complexsystems.fail), [PDF](https://web.archive.org/web/20200709194039/http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - a short introduction by Richard Cook applying systems thinking to safety
 * [How Complex Systems Fail, Velocity 2012](https://www.youtube.com/watch?v=2S0k12uZR14) - a talk by Richard Cook relating systems safety to IT
 * [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world) - a free MIT book introducing STAMP (Systems-Theoretic Accident Modeling and Processes) and STPA (STAMP-Based Process Analysis)
 * [MIT Partnership for a Systems Approach to Safety (PSAS)](https://psas.scripts.mit.edu/home/)
