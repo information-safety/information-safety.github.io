@@ -58,7 +58,12 @@ task :test => :build do
     },
     :cache => {
       :timeframe => '1d'
-    }
+    },
+    :http_status_ignore => [403,503],
+    :url_ignore => [
+      "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ",
+      "https://www.flightsafety.org/files/models_of_threat_error.pdf"
+    ]
   }
   begin
     HTMLProofer.check_directory("./_site", options).run
