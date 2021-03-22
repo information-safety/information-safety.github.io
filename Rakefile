@@ -61,9 +61,7 @@ task :test => :build do
     },
     :http_status_ignore => [403,503],
     :url_ignore => [
-      "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ",
-      "https://www.flightsafety.org/files/models_of_threat_error.pdf",
-      "http://sunnyday.mit.edu" # temporary fix - site down
+      "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ"
     ]
   }
   begin
