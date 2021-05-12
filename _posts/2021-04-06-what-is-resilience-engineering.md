@@ -9,7 +9,7 @@ Last August, I took on a new role at my company, and changed my title to Resilie
 
 Resilience Engineering (RE) as a concept emerged from safety science in the early 2000s. While the oldest reference to "Resilience Engineering" appears to be a paper written by David Woods in 2003[^fn-emergence], the most-cited work is the book, *Resilience Engineering: Concepts and Precepts*, a collection of chapters from the first Resilience Engineering symposium in 2004.[^fn-concepts] In that book and in subsequent publications, there have been many definitions of RE. This post is my attempt to succinctly define Resilience Engineering as I practice it, which is:
 
-**Resilience Engineering is the practice of working with people and technology to build software systems that fail less often and recover from failure faster by improving system performance.**
+**Resilience Engineering is the practice of working with people and technology to build software systems that fail less often and recover faster by improving system performance.**
 
 Let's break that definition down further:
 
@@ -27,9 +27,9 @@ Systems safety recognizes that people are an integral part of the system; one ca
 
 Further, while technology can't be ignored, beyond a baseline level of technology, people are the main contributor to resilience or lack thereof; most advances in aviation safety over the past 50+ years have come from human factors research, and it is not by accident that safety science is usually part of the psychology department. For this reason, I focus my efforts on people, and the relationship between people and technology.
 
-### Systems that fail less often and recover from failure faster
+### Systems that fail less often and recover faster
 
-'Systems that fail less often and recover from failure faster' is an over-simplification of resilience, but that statement accurately describes the value proposition of Resilience Engineering in technology; organizations are increasingly reliant on software systems, to the point where software has become safety-critical. We have come to expect that our software systems just work, so that failures are infrequent and systems (the software and the people together) are able to recover from unexpected disruptions quickly.
+'Systems that fail less often and recover faster' is an over-simplification of resilience, but that statement accurately describes the value proposition of Resilience Engineering in technology; organizations are increasingly reliant on software systems, to the point where software has become safety-critical. We have come to expect that our software systems just work, so that failures are infrequent and systems (the software and the people together) are able to recover from unexpected disruptions quickly.
 
 This is a distinctly different goal than ecological resilience: it isn't enough to build systems that simply survive, they also need be productive. This is a challenge unique to Resilience Engineering, as it requires both limiting and encouraging variability.
 
