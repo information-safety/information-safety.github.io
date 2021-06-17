@@ -45,10 +45,10 @@ Resilience Engineering is a diverse space and there is a small but growing group
 
 As a practitioner-researcher myself, I'm hoping to adapt and apply the science to software systems, to improve the profession, as well as contribute to the collective knowledge - of Resilience Engineering.
 
-[^fn-emergence]: Woods, D., & Wreathall, J. (2003). Managing Risk Proactively: The Emergence of Resilience Engineering.
-[^fn-concepts]: Hollnagel, E., Woods, D. D., & Leveson, N. (2006). Resilience engineering : concepts and precepts. Aldershot, England ; Burlington, VT: Ashgate.
-[^fn-holling]: Holling, C. S. (1973). RESILIENCE AND STABILITY OF ECOLOGICAL SYSTEMS. Annual Review of Ecology & Systematics, 4, 1-23. doi:10.1146/annurev.es.04.110173.000245
-[^fn-nutshell]: Hollnagel, E. (2008). Preface : Resilience Engineering in a Nutshell. In E. Hollnagel, C. P. Nemeth, & S. Dekker (Eds.), Resilience Engineering Perspectives, Volume 1: Remaining Sensitive to the Possibility of Failure (pp. ix-xii). Aldershot, UK: Ashgate.
-[^fn-RE]: Provan, D. J., Woods, D. D., Dekker, S. W. A., & Rae, A. J. (2020). Safety II professionals: How resilience engineering can transform safety practice. Reliability Engineering & System Safety, 195, 106740. doi:10.1016/j.ress.2019.106740
-[^fn-subject]: Hollnagel, E. (2014). Is safety a subject for science? Safety Science, 67, 21-24. doi:10.1016/j.ssci.2013.07.025
-[^fn-DORA]: Forsgren, N., Smith, D., Humble, J., & Frazelle, J. (2019). 2019 Accelerate State of DevOps Report. DORA & Google Cloud.  Retrieved from https://research.google/pubs/pub48455/
+[^fn-emergence]: Woods, D., & Wreathall, J. (2003). Managing Risk Proactively: The Emergence of Resilience Engineering. https://www.researchgate.net/publication/228711828_Managing_Risk_Proactively_The_Emergence_of_Resilience_Engineering
+[^fn-concepts]: Hollnagel, E., Woods, D. D., & Leveson, N. (2006). Resilience engineering : concepts and precepts. Ashgate.
+[^fn-holling]: Holling, C. S. (1973). RESILIENCE AND STABILITY OF ECOLOGICAL SYSTEMS [Article]. Annual Review of Ecology & Systematics, 4, 1-23. https://doi.org/10.1146/annurev.es.04.110173.000245
+[^fn-nutshell]: Hollnagel, E. (2008). Preface : Resilience Engineering in a Nutshell. In E. Hollnagel, C. P. Nemeth, & S. Dekker (Eds.), Resilience Engineering Perspectives, Volume 1: Remaining Sensitive to the Possibility of Failure (pp. ix-xii). Ashgate.
+[^fn-RE]: Provan, D. J., Woods, D. D., Dekker, S. W. A., & Rae, A. J. (2020). Safety II professionals: How resilience engineering can transform safety practice. Reliability Engineering & System Safety, 195, 106740. https://doi.org/10.1016/j.ress.2019.106740
+[^fn-subject]: Hollnagel, E. (2014). Is safety a subject for science? Safety Science, 67, 21-24. https://doi.org/10.1016/j.ssci.2013.07.025
+[^fn-DORA]: Forsgren, N., Smith, D., Humble, J., & Frazelle, J. (2019). 2019 Accelerate State of DevOps Report. DORA & Google Cloud. https://research.google/pubs/pub48455/
