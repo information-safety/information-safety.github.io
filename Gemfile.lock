@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.3.7)
+    activesupport (6.0.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -16,7 +16,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     dnsruby (1.61.5)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -42,8 +42,8 @@ GEM
     ffi (1.15.1)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    github-pages (214)
-      github-pages-health-check (= 1.17.0)
+    github-pages (215)
+      github-pages-health-check (= 1.17.2)
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
@@ -86,7 +86,7 @@ GEM
       nokogiri (>= 1.10.4, < 2.0)
       rouge (= 3.26.0)
       terminal-table (~> 1.4)
-    github-pages-health-check (1.17.0)
+    github-pages-health-check (1.17.2)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
       octokit (~> 4.0)
@@ -281,12 +281,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 214)
+  github-pages (= 215)
   html-proofer
   rake
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 2.7.3p183
 
 BUNDLED WITH
-   2.1.4
+   2.2.20
