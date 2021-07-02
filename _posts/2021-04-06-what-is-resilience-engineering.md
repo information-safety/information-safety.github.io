@@ -45,6 +45,17 @@ Resilience Engineering is a diverse space and there is a small but growing group
 
 As a practitioner-researcher myself, I'm hoping to adapt and apply the science to software systems, to improve the profession, as well as contribute to the collective knowledge - of Resilience Engineering.
 
+### Future Articles
+
+*Update:* I've been asked to elaborate on the ideas behind Resilience Engineering, so I've added this section to cover a plan for future articles on the topic:
+
+* The origins and history of Resilience Engineering
+* Parallels between Cybersecurity, Operations, and Safety
+* Is DevOps culture High Reliability culture?
+* My research in software systems resilience
+
+Updates and links will be posted here.
+
 [^fn-emergence]: Woods, D., & Wreathall, J. (2003). Managing Risk Proactively: The Emergence of Resilience Engineering. https://www.researchgate.net/publication/228711828_Managing_Risk_Proactively_The_Emergence_of_Resilience_Engineering
 [^fn-concepts]: Hollnagel, E., Woods, D. D., & Leveson, N. (2006). Resilience engineering : concepts and precepts. Ashgate.
 [^fn-holling]: Holling, C. S. (1973). RESILIENCE AND STABILITY OF ECOLOGICAL SYSTEMS [Article]. Annual Review of Ecology & Systematics, 4, 1-23. https://doi.org/10.1146/annurev.es.04.110173.000245
