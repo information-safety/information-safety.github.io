@@ -61,6 +61,7 @@ task :test => :build do
     },
     :http_status_ignore => [403,503],
     :url_ignore => [
+      "https://apps.dtic.mil/dtic/tr/fulltext/u2/a530139.pdf",
       "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ"
     ]
   }
