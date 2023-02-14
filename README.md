@@ -1,6 +1,7 @@
 # Information Safety
 
-[![Build Status](https://app.travis-ci.com/information-safety/information-safety.github.io.svg?branch=master)](https://app.travis-ci.com/information-safety/information-safety.github.io)
+[![ruby](https://github.com/information-safety/information-safety.github.io/workflows/ruby/badge.svg)](https://github.com/information-safety/information-safety.github.io/actions)
+
 
 This is the public source repository for the Information Safety GitHub pages website: https://www.information-safety.org.
 
