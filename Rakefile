@@ -43,6 +43,7 @@ desc 'verify links'
 task :test => :build do
   options = {
     :check_external_hash => true,
+    :check_internal_hash => true,
     :check_favicon => true,
     :check_opengraph => true,
     :check_html => true,
@@ -57,11 +58,15 @@ task :test => :build do
       :report_script_embeds => true,
     },
     :cache => {
-      :timeframe => '1d'
+      :timeframe => {
+        :internal => '1d',
+        :external => '1d'
+      }
     },
-    :http_status_ignore => [403,503],
-    :url_ignore => [
-      "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ"
+    :enforce_https => false,
+    :ignore_status_codes => [403,503],
+    :ignore_urls => [
+            "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ"
     ]
   }
   begin
