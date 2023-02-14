@@ -17,7 +17,7 @@ My story is told in three acts: My journey to find chaos engineering (ACT I), Ch
 * [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 * [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
 * [TCD: Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/)
-* [Lund: Human Factors &amp; System Safety](http://www.humanfactors.lth.se)
+* [Lund: Human Factors &amp; System Safety](https://www.humanfactors.lth.se)
 
 ## ACT II: Chaos & Resilience Engineering
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
@@ -34,7 +34,7 @@ My story is told in three acts: My journey to find chaos engineering (ACT I), Ch
   * Crichton, M. T., Lauche, K., & Flin, R. (2005). [Incident Command Skills in the Management of an Oil Industry Drilling Incident: a Case Study](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5973.2005.00466.x) ([PDF](https://www.academia.edu/38675561/Incident_Command_Skills_in_the_Management_of_an_Oil_Industry_Drilling_Incident_a_Case_Study))
   * *Muhren, W. J., van den Eede, G. G. P., & van de Walle, B. A. (2007). [Organizational learning for
 the incident management process](https://research.tilburguniversity.edu/en/publications/organizational-learning-for-the-incident-management-process-lesso) ([PDF](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1131&context=ecis2007))*
-  * [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Endsley's_model)
+  * [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Theoretical_model)
   * Dossier 1: A socio-technical case study of an IT major incident management team
 * Lesson 2: Safety has risk assessment methods that can be applied to computer systems
   * [NIST 800-30](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)

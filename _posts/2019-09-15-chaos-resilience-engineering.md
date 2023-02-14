@@ -43,7 +43,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
   * Why were these different?
   * What has been learned?
 * John Boyd’s [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
-* [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Endsley's_model)
+* [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Theoretical_model)
 * [Safety II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf)
 * [FMEA](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
 * [STPA/CAST Handbooks](http://psas.scripts.mit.edu/home/materials/)
