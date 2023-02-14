@@ -1,0 +1,32 @@
+# Built from: https://github.com/actions/starter-workflows/blob/main/ci/ruby.yml and
+# https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-ruby
+# For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
+
+name: ruby
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    # from https://github.com/gjtorikian/html-proofer/blob/main/README.md#caching-with-continuous-integration
+    - name: Cache HTMLProofer
+      id: cache-htmlproofer
+      uses: actions/cache@v2
+      with:
+        path: tmp/.htmlproofer
+        key: ${{ runner.os }}-htmlproofer
+
+    - run: bundle install
+    - run: bundle exec rake
