@@ -17,8 +17,9 @@ Recommended reading and other resources for safety risk management.
 * [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) - Erik Hollnagel's account of the origins of Resilience Engineering
 * [Resilience Assessment Grid](https://erikhollnagel.com/ideas/resilience%20assessment%20grid.html) - recommended for the succinct description of the four potentials of resilient performance in the beginning of the essay: Respond, Monitor, Learn, Anticipate
 * [The NO view of 'human error'](https://erikhollnagel.com/ideas/no-view-of-human-error.html) - argues that we should stop using 'human error' as an explanation for accidents/failures as it is not helpful
+* [From the coalface: an essay on the early history of sociotechnical systems](https://eight2late.wordpress.com/2015/04/07/from-the-coalface-an-essay-on-the-early-history-of-sociotechnical-systems/) - a blog post on how the idea of sociotechnical systems came from the study of coal mining in Britain and the insight that the "*best work arrangements come out of seeking a match between technical and social elements of the modern day workplace*"
 
-## Introductory books
+## Books
 
 * [Normal Accidents: Living with High-Risk Technologies](https://en.wikipedia.org/wiki/Normal_Accidents) - an older but influential book written by Charles Perrow, a sociologist, in the aftermath of the [Three Mile Island accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) - Perrow's ideas of coupling and complexity are still valid today
 * [The Field Guide to Understanding 'Human Error'](https://www.routledge.com/The-Field-Guide-to-Understanding-Human-Error-3rd-Edition/Dekker/p/book/9781472439055) by [Sidney Dekker](https://sidneydekker.com) - recommended by several people as an easily understandable introduction to resilience engineering concepts from safety, also available on [O’Reilly](https://www.oreilly.com/library/view/the-field-guide/9781317031833/)
