@@ -29,7 +29,7 @@ Recommended reading and other resources for safety risk management.
 
 * Bainbridge, L. (1983). IRONIES OF AUTOMATION. [IRONIES OF AUTOMATION](https://www.sciencedirect.com/science/article/pii/B9780080293486500269?via%3Dihub), [PDF](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf) - a classic and accessible paper on the downside of automation that stands up even today
 * Endsley, M. R. (1995). [Toward a Theory of Situation Awareness in Dynamic Systems](https://journals.sagepub.com/doi/10.1518/001872095779049543), [PDF](https://www.researchgate.net/profile/Mica_Endsley/publication/210198492_Endsley_MR_Toward_a_Theory_of_Situation_Awareness_in_Dynamic_Systems_Human_Factors_Journal_371_32-64/links/548f61bf0cf214269f263b08.pdf) - Endsley's main paper on [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness), a theoretical construct that is useful in understanding decisions made by operators in emergency situations
-* Helmreich, R. L., Klinect, J. R., & Wilhelm, J. A. (1999). Models of threat, error, and CRM in flight operations, [PDF](https://www.flightsafety.org/files/models_of_threat_error.pdf) - an excellent paper covering key aspects of modern aviation safety: Crew Resource Management, the Line Operations Safety Audit, and Threat and Error Management
+* Helmreich, R. L., Klinect, J. R., & Wilhelm, J. A. (1999). Models of threat, error, and CRM in flight operations, [PDF](https://www.pacdeff.com/pdfs/models_of_threat_error.pdf) - an excellent paper covering key aspects of modern aviation safety: Crew Resource Management, the Line Operations Safety Audit, and Threat and Error Management
 * Garvin, D. A., Edmondson, A. C., & Gino, F. (2008). Is yours a learning organization, [PDF](https://www.researchgate.net/profile/Amy_Edmondson/publication/5440662_Is_Yours_a_Learning_Organization/links/0fcfd5057191e297d0000000/Is-Yours-a-Learning-Organization.pdf) - a solid methodology for assessing the depth of learning within your organization, with links to self-assessments
 * Aven, T., Renn, O., & Rosa, E. A. (2011). [On the ontological status of the concept of risk](https://www.sciencedirect.com/science/article/pii/S0925753511000981?via%3Dihub), [PDF](https://www.academia.edu/34623476/On_the_ontological_status_of_the_concept_of_risk) - Aven's career has been to establish safety as a science; this article strives to define what risk actually is
 * Hollnagel, E., Wears, R. L., & Braithwaite, J. (2015). From Safety-I to Safety-II: a white paper, [PDF](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf) - an evolution of Hollnagel's concept of Resilience Engineering, making the case that safety should focus not just on accidents (when things go unexpectedly poorly), but the full range of outcomes
@@ -64,7 +64,7 @@ Three programs with graduates active in the IT Resilience Engineering community:
 
 ## Other curated lists
 
-* [@dastergon](https://dastergon.gr)'s [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
-* [@dastergon](https://dastergon.gr)'s [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+* [@dastergon](https://github.com/dastergon)'s [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+* [@dastergon](https://github.com/dastergon)'s [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 * [@lorin](http://lorinhochstein.org)'s [Resilience engineering papers](https://github.com/lorin/resilience-engineering)
 * [@lorin](http://lorinhochstein.org)'s [Cognitive Systems Engineering](https://github.com/lorin/cognitive-systems-engineering)
