@@ -54,7 +54,7 @@ The DORA group uses survey research to measure software delivery performance, ou
 
 ## How to Improve
 
-So, how do you improve software delivery performance? The simple answer is "adopt all the practices that the research shows improves performance", but how do you get started? In her 2017 talk *The Key to High Performance: What the Data Says*, Forsgren cites a specific example: "By focusing on trunk-based development and streamlining their change approval processes, Captial One saw stunning improvements in just two months," with a 20x increase in releases, some applications deploying to production in a day 30+ times] and no increase in incidents. In the same talk, she offers some general device: "It depends," and suggests looking at decoupling architecture, adopting a lightweight change approval process, and full continuous integration. My take is that organizations should adopt the DevOps ways of working first, to support cultural change.
+So, how do you improve software delivery performance? The simple answer is "adopt all the practices that the research shows improves performance", but how do you get started? In her 2017 talk *The Key to High Performance: What the Data Says*, Forsgren cites a specific example: "By focusing on trunk-based development and streamlining their change approval processes, Capital One saw stunning improvements in just two months," with a 20x increase in releases, some applications deploying to production in a day 30+ times] and no increase in incidents. In the same talk, she offers some general device: "It depends," and suggests looking at decoupling architecture, adopting a lightweight change approval process, and full continuous integration. My take is that organizations should adopt the DevOps ways of working first, to support cultural change.
 
 Regardless of how, make sure to measure: measuring outcomes using the four metrics will help identify opportunities to improve and measure improvement over time.
 
@@ -70,7 +70,7 @@ Google. (2020). *DORA DevOps Quick Check*. <https://www.devops-research.com/quic
 
 Smith, D., Villalba, D., Irvine, M., Stanke, D., & Harvey, N. (2021). *2021 Accelerate State of DevOps Report*. Google Cloud. <https://cloud.google.com/devops/state-of-devops/>
 
-Beyer, B., Jones, C., Petoff, J., & Murphy, N. R. (2016). *Site reliability engineering : how Google runs production systems* (First edition. ed.). Oreilly. <https://landing.google.com/sre/sre-book/toc/index.html>
+Beyer, B., Jones, C., Petoff, J., & Murphy, N. R. (2016). *Site reliability engineering : how Google runs production systems* (First edition. ed.). O'Reilly. <https://landing.google.com/sre/sre-book/toc/index.html>
 
 Benninghoff, J. (2021). *A cross-team study of factors contributing to software systems resilience at a large health care company* [Master's thesis, Trinity College Dublin]. Ireland.
 
@@ -78,4 +78,4 @@ Benninghoff, J. (2021). *A cross-team study of factors contributing to software 
 
 Forsgren, N., Smith, D., Humble, J., & Frazelle, J. (2019). *2019 Accelerate State of DevOps Report*. DORA & Google Cloud. <https://research.google/pubs/pub48455/>
 
-Forsgren, N. (2017). *The Key to High Performance: What the Data Says*. https://www.youtube.com/watch?v=RBuPlMTXuFc&t=25s
+Forsgren, N. (2017). *The Key to High Performance: What the Data Says*. <https://www.youtube.com/watch?v=RBuPlMTXuFc&t=25s>
