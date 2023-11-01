@@ -7,7 +7,7 @@ comments: true
 
 For a while, I've been seeing evidence that cybersecurity, especially traditional security, has been stagnant; adding security controls hasn't appreciably improved outcomes and we continue to struggle with basic problems like vulnerabilities. (as Cyentia discovered and reported in its [Prioritization to Prediction](https://www.cyentia.com/pithy-p2p/) series, organizations of all sizes only fix about 10% of their vulnerabilities in any given month)
 
-Many organizations have accumulated 20+ years of security policies, standards, and controls, without significantly removing rules that may no longer be needed, and organizations of all sizes continue to experience security breches.
+Many organizations have accumulated 20+ years of security policies, standards, and controls, without significantly removing rules that may no longer be needed, and organizations of all sizes continue to experience security breaches.
 
 Safety faced a similar problem 10-15 years ago. Safety scientists and practitioners saw that security outcomes were stagnant and looked for new approaches. One of these, *Safety Differently*, was created by notable safety science academic Sidney Dekker in 2012. It was part of the emerging acknowledgement that the traditional method of avoiding accidents through policies, procedures, and controls was no longer driving improvements in safety.
 
@@ -37,7 +37,7 @@ In practical terms, what would adopting Security Differently look like? The [Saf
 
 1. A focus on positive measures of security performance (Security Metrics). A security team is still needed to measure security outcomes, like successfully defending against an attack, as well as measures that have been shown to contribute to success, like security updates and secure configuration.
 
-1. A significant reduction of security policies and procedures, along with training on Security Differently concepts. The Australian grocery Wooolworth's found that the combination of eliminating national safety procedures and training in Safety Differently led to the best outcomes: fewer accidents in the store, along with the highest levels of safety ownership and engagement.
+1. A significant reduction of security policies and procedures, along with training on Security Differently concepts. The Australian grocery Woolworth's found that the combination of eliminating national safety procedures and training in Safety Differently led to the best outcomes: fewer accidents in the store, along with the highest levels of safety ownership and engagement.
 
 1. Asking, not telling. While ownership shifts to the Technology team, security expertise is still needed, to coach and support security performance - advising developers on how to fix security bugs - and develop new capacities to address novel threats (the [Solarwinds Attack](https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach) is an example). Simply asking teams, "what do you need to be secure?" is a key part of improving their performance.
 
