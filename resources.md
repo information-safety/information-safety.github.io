@@ -44,7 +44,7 @@ Recommended reading and other resources for safety risk management.
 Videos, podcasts and other media.
 
 * [The Safety of Work](https://safetyofwork.com) - a now biweekly podcast where Drew Rae and David Provan, two safety practitioners and researchers, review academic research and discuss the implications for safety management
-* [The Key to High Performance: What the Data Says](https://www.youtube.com/watch?v=RBuPlMTXuFc&t=25s) - Nicole Forgren presents results of her research at DevOps Enterprise Summit San Francisco 2017
+* [The Key to High Performance: What the Data Says](https://www.youtube.com/watch?v=RBuPlMTXuFc&t=25s) - Nicole Forsgren presents results of her research at DevOps Enterprise Summit San Francisco 2017
 * [2019 Accelerate State of DevOps Report](https://research.google/pubs/pub48455/) - the latest (and likely last) State of DevOps Report produced under the direction of Nicole Forsgren
 * The [STPA Handbook](https://psas.scripts.mit.edu/home/materials/) - a whitepaper written by Nancy Leveson and John Thomas to help practitioners learn to use STPA
 
@@ -58,7 +58,7 @@ Three programs with graduates active in the IT Resilience Engineering community:
 
 ## Organizations
 
-* [Resilience Engineering Association](https://www.resilience-engineering-association.org): *the official home of Resilience Engineering* "Resilience Engineering is a trans-disciplinary perspective that focuses on developing on theories and practices that are necessary to enable complex-socio technical systems and organizations to continue operations or to deliver essential services when dealing with expected and unexpected situations (prior, during and after). It addesses complexity, non-linearity, inter-dependencies, emergence, formal and informal social structures, threats and opportunities."
+* [Resilience Engineering Association](https://www.resilience-engineering-association.org): *the official home of Resilience Engineering* "Resilience Engineering is a trans-disciplinary perspective that focuses on developing theories and practices that enable the continuity of operations and societal activities to deliver essential services in the face of ever-growing dynamics and uncertainty. It addresses complexity, non-linearity, inter-dependencies, emergence, formal and informal social structures, threats and opportunities."
 * [Society for Risk Analysis](https://www.sra.org) (SRA): "The Society for Risk Analysis is a multidisciplinary, interdisciplinary, scholarly, international society that provides an open forum for all those who are interested in risk analysis. Risk analysis is broadly defined to include risk assessment, risk characterization, risk communication, risk management, and policy relating to risk, in the context of risks of concern to individuals, to public- and private-sector organizations, and to society at a local, regional, national, or global level."
 * [Society of Information Risk Analysts](https://www.societyinforisk.org) (SIRA): *Data > Dogma* "The Society of Information Risk Analysts (SIRA), established in 2011, is the go-to resource for decision makers & practitioners of information risk management. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education."
 
