@@ -22,4 +22,4 @@ This left one final question: how exactly to install r? [Homebrew](https://brew.
 
 What's next? At some point I plan to try to integrate GitHub actions for testing, and create a CI/CD pipeline of sorts for Pages, using [GitHub actions](https://github.com/features/actions). And, of course, actually using R for data analysis...
 
-**Update:** I tested homebrew-r-srf, and am going with homebrew r. There was some weirdness with the install/uninstall (`/usr/local/lib/R` left over), I don't know if I'll need the optional features, and homebrew r now uses openpbs. If I find I actually *need* any of the missing capabilities, I'll likely write my own formula.
+**Update:** I tested homebrew-r-srf, and am going with homebrew r. There was some weirdness with the install/uninstall (`/usr/local/lib/R` left over), I don't know if I'll need the optional features, and homebrew r now uses openblas. If I find I actually *need* any of the missing capabilities, I'll likely write my own formula.
