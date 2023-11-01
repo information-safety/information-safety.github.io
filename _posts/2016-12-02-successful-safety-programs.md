@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elements of Succesful Safety Programs
+title: Elements of Successful Safety Programs
 author: jabenninghoff
 comments: true
 ---
@@ -9,10 +9,10 @@ I've previously [written](http://transvasive.com/?p=21) about how aviation safet
 
 What are the elements of a successful safety program and how can we apply these elements to security programs? Comparison of the [SUBSAFE](https://en.wikipedia.org/wiki/SUBSAFE) program and [PhishMe's](https://cofense.com) offering, along with my own experience implementing a vulnerability management (VM) program at a previous company suggest that successful safety or security risk management programs share common features:
 
-* Explicit Goals
-* Defined Activities
-* Feedback & Incentives
-* Continual Improvement
+- Explicit Goals
+- Defined Activities
+- Feedback & Incentives
+- Continual Improvement
 
 ## Three Programs
 
