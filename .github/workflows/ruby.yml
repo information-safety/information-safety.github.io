@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
@@ -23,7 +23,7 @@ jobs:
     # from https://github.com/gjtorikian/html-proofer/blob/main/README.md#caching-with-continuous-integration
     - name: Cache HTMLProofer
       id: cache-htmlproofer
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: tmp/.htmlproofer
         key: ${{ runner.os }}-htmlproofer
