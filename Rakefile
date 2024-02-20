@@ -64,9 +64,8 @@ task :test => :build do
       }
     },
     :enforce_https => false,
-    :ignore_status_codes => [403,503],
+    :ignore_status_codes => [403,503,999],
     :ignore_urls => [
-            "https://www.learningfromincidents.io",
             "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ",
             "https://societyinforisk.org/page-18117#Benninghoff21"
     ]
