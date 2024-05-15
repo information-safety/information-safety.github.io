@@ -66,6 +66,8 @@ task :test => :build do
     :enforce_https => false,
     :ignore_status_codes => [403,503,999],
     :ignore_urls => [
+            # temporarily ignore griffith.edu.au as it is timing out from GitHub
+            "https://research-repository.griffith.edu.au/bitstream/handle/10072/389308/Provan268657-Published.pdf",
             "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ",
             "https://societyinforisk.org/page-18117#Benninghoff21"
     ]
