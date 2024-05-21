@@ -6,6 +6,8 @@ comments: true
 ---
 I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](https://www.meetup.com/OWASP-MSP-Meetup/events/264466608/) on *"Chaos & Resilience Engineering"*. Because the talk is told as a story and a demo, I won't be posting copies of the slides, but I am including an abstract and a list of references here. The talk tells the story of my journey to find chaos engineering, introduces chaos engineering, describes how it is complemented by resilience engineering, and discusses how to get started and join the movement.
 
+*Note:* I presented a version of this talk at an internal company conference in 2019, which led me to create the Chaos & Resilience Engineering Guild. Later on, I left security and moved to Infrastructure to start a Site Reliability Engineering practice.
+
 ## Abstract
 
 *Chaos engineering started at Netflix in 2011 with the invention of the Chaos Monkey, a tool that intentionally disrupted systems on the production network to discover systemic weaknesses so that they could be removed. Since then, the Chaos Monkey has grown to become the Simian Army, and chaos engineering has spread to a global community that develops free & commercial tools to facilitate experiments in QA and production.*
