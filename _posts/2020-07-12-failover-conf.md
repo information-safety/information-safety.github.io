@@ -4,7 +4,7 @@ title: Failover Conf
 author: jabenninghoff
 comments: true
 ---
-Back in April, I attended [Failover Conf](https://failover-conf.heysummit.com), a virtual conference hosted by Gremlin. Overall I thought the conference was pretty good, but as with all conferences, the usefulness of the talks varied. The influence of safety thinking was clear, especially Resilience Engineering, which was explicitly covered in two talks (Amy Tobey and J Paul Reed).
+Back in April, I attended [Failover Conf](https://web.archive.org/web/20200423051836/https://failover-conf.heysummit.com/), a virtual conference hosted by Gremlin. Overall I thought the conference was pretty good, but as with all conferences, the usefulness of the talks varied. The influence of safety thinking was clear, especially Resilience Engineering, which was explicitly covered in two talks (Amy Tobey and J Paul Reed).
 
 The highlights for me were two talks on Site Reliability Engineering (SRE) by Jennifer Petoff on SRE training at Google, and by Danyel Fisher & Liz Fong-Jones, on implementing SRE at honeycomb.io. SRE is an interesting practice; it's essentially "how Google implemented operations at scale," making the conference an interesting blend of theory (Resilience Engineering) and practice (SRE).
 
