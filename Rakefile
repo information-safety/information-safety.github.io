@@ -24,7 +24,7 @@ end
 desc 'build site'
 task :build do
   begin
-    sh 'JEKYLL_ENV="production" bundle exec jekyll build'
+    sh 'JEKYLL_ENV="production" bundle exec jekyll build --drafts --unpublished --future --strict_front_matter'
   rescue => msg
     puts "#{msg}"
   end
