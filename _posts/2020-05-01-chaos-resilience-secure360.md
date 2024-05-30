@@ -4,6 +4,8 @@ title: Chaos &amp; Resilience Engineering @ Secure360
 author: jabenninghoff
 comments: true
 ---
+**Update:** by request, I've posted handouts for this talk [here]({% post_url 2020-05-07-secure360-handouts %}).
+
 I'm speaking at [Secure360](https://secure360.org) on May 5, 2020, presenting an updated version of ["*Chaos & Resilience Engineering*"](https://web.archive.org/web/20210806005515/https://secure360.org/session/john-benninghoff-chaos-resilience-engineering-my-journey/?conference=11809&date=20200505). As I've done [before]({% post_url 2019-09-15-chaos-resilience-engineering %}), I won't be posting copies of the slides. Instead, I'm posting an updated list of references from the talk here.
 
 *Note: this post includes some additional references that are not in the final version of the talk (italicized)*

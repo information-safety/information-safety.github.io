@@ -4,6 +4,8 @@ title: Chaos &amp; Resilience Engineering talk
 author: jabenninghoff
 comments: true
 ---
+**Update:** by request, I've posted handouts for my Secure360 version of this talk [here]({% post_url 2020-05-07-secure360-handouts %}).
+
 I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](https://www.meetup.com/OWASP-MSP-Meetup/events/264466608/) on *"Chaos & Resilience Engineering"*. Because the talk is told as a story and a demo, I won't be posting copies of the slides, but I am including an abstract and a list of references here. The talk tells the story of my journey to find chaos engineering, introduces chaos engineering, describes how it is complemented by resilience engineering, and discusses how to get started and join the movement.
 
 *Note:* I presented a version of this talk at an internal company conference in 2019, which led me to create the Chaos & Resilience Engineering Guild. Later on, I left security and moved to Infrastructure to start a Site Reliability Engineering practice.
