@@ -4,7 +4,6 @@ title: The Definitive Introduction to the DORA Research
 author: jabenninghoff
 comments: true
 ---
-
 I've spent a good deal of time over the last three years studying software delivery performance, both learning from the work of Nicole Forsgren and the [DevOps Research and Assessment (DORA)](https://www.devops-research.com/research.html) team at Google, as well as conducting my own research. I've often needed to explain the research to others, especially in the context of the "four metrics", and set out to write this, *the definitive* introduction to the research (well, at least my definitive version).
 
 ## DevOps Metrics

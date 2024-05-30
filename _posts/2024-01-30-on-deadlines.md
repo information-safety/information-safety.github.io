@@ -4,7 +4,6 @@ title: On Deadlines
 author: jabenninghoff
 comments: true
 ---
-
 Getting rid of deadlines improves safety and security.
 
 I was recently discussing the safety of Artificial Intelligence (AI) with a colleague. He sent me a link to an [episode](https://open.spotify.com/episode/2x9q2R3Q7jIQi3WhaaAWVa) of the Medicine & Machine Learning podcast featuring Munjal Shah, the co-founder and CEO of Hippocratic AI. In our conversation, my colleague mentioned a quote from the podcast on deadlines:
