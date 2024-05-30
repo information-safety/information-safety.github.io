@@ -4,7 +4,6 @@ title: Running Security like Finance
 author: jabenninghoff
 comments: true
 ---
-
 Lately I've been thinking about the role of the CISO and Security and how it compares to the CFO and Finance. It started with two simple questions: "Who is responsible for security?" and "Who is responsible for meeting your budget?"
 
 I suspect that many people would answer the first question with "Security" or "the CISO" while few would say that Finance or the CFO are responsible for meeting the budget. Put more eloquently by my colleague [Chris Brown](https://www.linkedin.com/in/chrisbrownforhire/),

@@ -4,7 +4,6 @@ title: What is Resilience Engineering?
 author: jabenninghoff
 comments: true
 ---
-
 Last August, I took on a new role at my company, and changed my title to Resilience Engineer. Which leads to an obvious question, *what is Resilience Engineering?*
 
 Resilience Engineering (RE) as a concept emerged from safety science in the early 2000s. While the oldest reference to "Resilience Engineering" appears to be a paper written by David Woods in 2003[^fn-emergence], the most-cited work is the book, *Resilience Engineering: Concepts and Precepts*, a collection of chapters from the first Resilience Engineering symposium in 2004.[^fn-concepts] In that book and in subsequent publications, there have been many definitions of RE. This post is my attempt to succinctly define Resilience Engineering as I practice it, which is:
