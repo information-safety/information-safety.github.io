@@ -29,6 +29,8 @@ How does this work in practice? The table below highlights key differences betwe
 
 ## Further Reading
 
+Blog posts on Security Differently, newest first:
+
 {% assign sd_posts = site.posts | where: "tags", "Security Differently" %}
 <ul>
   {% for post in sd_posts %}
