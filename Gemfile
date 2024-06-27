@@ -9,4 +9,5 @@ gem 'github-pages', version['github-pages'], group: :jekyll_plugins
 group :test do
   gem 'html-proofer'
   gem 'rake'
+  gem 'rubocop'
 end
