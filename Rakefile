@@ -68,6 +68,8 @@ task :test => :build do
     :ignore_status_codes => [403,503,999],
     :ignore_urls => [
             "https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ",
+            # URL times out
+            "https://research-repository.griffith.edu.au/bitstream/handle/10072/389308/Provan268657-Published.pdf?sequence=5",
             "https://societyinforisk.org/siracon19#elliotnotebooks",
             "https://societyinforisk.org/page-18117#Benninghoff21",
             "https://societyinforisk.org/page-18130#Benninghoff22",
