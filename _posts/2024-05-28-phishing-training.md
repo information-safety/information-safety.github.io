@@ -2,6 +2,7 @@
 layout: post
 title: Does Phishing Training Work?
 author: jabenninghoff
+tags: ["Security Differently"]
 comments: true
 ---
 I was recently talking with a couple of friends who both work in technology outside of cybersecurity, and our conversation led to one of the most common interactions with the security team: phishing training. Their general experience reflected my own: companies generate simulated phishing emails, send them out periodically, and deliver training to employees that click.

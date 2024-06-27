@@ -2,6 +2,7 @@
 layout: post
 title: Is Cybersecurity a Subject for Science?
 author: jabenninghoff
+tags: ["Safety", "Security Differently"]
 comments: true
 ---
 Draw upon 2014 Hollnagel article:

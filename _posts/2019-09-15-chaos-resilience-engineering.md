@@ -2,6 +2,7 @@
 layout: post
 title: Chaos &amp; Resilience Engineering talk
 author: jabenninghoff
+tags: ["Safety", "Chaos Engineering", "Resilience Engineering", "Talks"]
 comments: true
 ---
 **Update:** by request, I've posted handouts for my Secure360 version of this talk [here]({% post_url 2020-05-07-secure360-handouts %}).

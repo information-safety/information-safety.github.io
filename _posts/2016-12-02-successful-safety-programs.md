@@ -2,6 +2,7 @@
 layout: post
 title: Elements of Successful Safety Programs
 author: jabenninghoff
+tags: ["Safety"]
 comments: true
 ---
 I've previously [written](http://transvasive.com/?p=21) about how aviation safety has proven to be successful by measurably reducing over time the number of fatalities per mile flown. Fire Safety in the US has a [similar story](https://freakonomics.com/podcast/freakonomics-radio-death-by-fire-probably-not/).

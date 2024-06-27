@@ -2,6 +2,7 @@
 layout: post
 title: Running Security like Finance
 author: jabenninghoff
+tags: ["Security Differently"]
 comments: true
 ---
 **Update:** I [gave a talk at Secure360 2024]({% post_url  2024-05-15-secure-360-2024 %}) on Security Differently, which included this discussion of the CISO role and a promotional video about how the CISO should be like the CFO.
