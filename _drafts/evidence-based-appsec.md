@@ -2,6 +2,7 @@
 layout: post
 title: Evidence-Based Application Security
 author: jabenninghoff
+tags: ["Security Differently"]
 comments: true
 ---
 Article summarizing current research and evidence on what works in application security.

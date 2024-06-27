@@ -2,6 +2,7 @@
 layout: post
 title: Information Safety Launch
 author: jabenninghoff
+tags: ["Safety"]
 comments: true
 ---
 Three years in the making, `information-safety.org` is finally launching. As I have studied and learned more about safety, I've become increasingly convinced that the Information Security world can benefit from safety risk management methods. I've started this site to both share what I'm learning and to invite others to join in the search.

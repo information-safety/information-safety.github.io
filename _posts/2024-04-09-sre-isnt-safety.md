@@ -2,6 +2,7 @@
 layout: post
 title: SRE and Security Aren't Safety... Yet
 author: jabenninghoff
+tags: ["Safety", "SRE"]
 comments: true
 ---
 I'm a long-time listener of the [Safety of Work](https://safetyofwork.com) Podcast, hosted by David Provan and Drew Rae, both safety scientists who have worked in industry. Very early on, when listening to the first episode, it struck me how much the podcast could be applied to cybersecurity and reliability - taking the first part of the [transcript](https://safetyofwork.com/episodes/ep0-who-are-we/transcript) from Episode 0 and replacing "safety" words with "security", we get:

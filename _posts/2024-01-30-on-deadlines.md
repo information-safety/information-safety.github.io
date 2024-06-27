@@ -2,6 +2,7 @@
 layout: post
 title: On Deadlines
 author: jabenninghoff
+tags: ["Safety", "Security Differently"]
 comments: true
 ---
 Getting rid of deadlines improves safety and security.

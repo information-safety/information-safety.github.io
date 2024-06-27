@@ -2,6 +2,7 @@
 layout: post
 title: What is Resilience Engineering?
 author: jabenninghoff
+tags: ["Resilience Engineering", "DevOps"]
 comments: true
 ---
 Last August, I took on a new role at my company, and changed my title to Resilience Engineer. Which leads to an obvious question, *what is Resilience Engineering?*

@@ -2,6 +2,7 @@
 layout: post
 title: Cybersecurity NTSB
 author: jabenninghoff
+tags: ["Safety", "Security Differently", "Talks"]
 comments: true
 ---
 As I work through cataloging presentations I've done this week, I've come across a few that I haven't yet posted here (or on <https://transvasive.com>). I'll be posting them here over the next three days.

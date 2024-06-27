@@ -2,6 +2,7 @@
 layout: post
 title: Working with R
 author: jabenninghoff
+tags: ["R"]
 comments: true
 ---
 **Update:** I [spoke at SIRAcon 2022]({% post_url 2024-05-21-siracon-2022 %}) on my two-year journey learning R.
