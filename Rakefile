@@ -24,7 +24,7 @@ end
 desc 'build site'
 task :build do
   begin
-    # using --unpublished or --furture disables --drafts
+    # using --unpublished or --future disables --drafts
     sh 'JEKYLL_ENV="production" bundle exec jekyll build --strict_front_matter --unpublished --future'
   rescue => msg
     puts "#{msg}"
