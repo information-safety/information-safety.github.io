@@ -12,6 +12,7 @@ gem 'github-pages', version['github-pages'], group: :jekyll_plugins
 #   https://github.com/orgs/community/discussions/127006
 #   https://github.com/sqlsaturday/sqlsatwebsite/blob/main/Gemfile
 #   https://rubygems.org/gems/ffi/versions
+# TODO: remove when upstream issue https://github.com/actions/jekyll-build-pages/issues/123 is resolved
 gem 'ffi', '= 1.16.3'
 group :test do
   gem 'html-proofer'
