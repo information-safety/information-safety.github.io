@@ -15,4 +15,5 @@ group :test do
   gem 'html-proofer'
   gem 'rake'
   gem 'rubocop'
+  gem 'rubocop-rake'
 end
