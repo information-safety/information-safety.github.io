@@ -3,3 +3,7 @@ require:
 
 AllCops:
   NewCops: enable
+
+Metrics/BlockLength:
+  Exclude:
+    - 'Rakefile'
