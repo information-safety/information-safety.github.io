@@ -13,12 +13,12 @@ plugins:
 
 # Optimize Jekyll
 exclude:
-  - .bundle
-  - .editorconfig
   - .git
+  - .github
   - .gitignore
+  - .rubocop.yml
   - .ruby-version
-  - .travis.yml
+  - .vscode
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
