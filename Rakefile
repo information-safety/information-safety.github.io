@@ -61,6 +61,8 @@ task test: :build do
     enforce_https: false,
     ignore_status_codes: [403, 503, 999],
     ignore_urls: [
+      # URL not resolving
+      'https://secure360.org',
       # URLs time out
       'https://research-repository.griffith.edu.au/bitstream/handle/10072/389308/Provan268657-Published.pdf?sequence=5',
       # URLs require authentication
