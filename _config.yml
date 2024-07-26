@@ -50,7 +50,7 @@ disqus_url:          information-safety
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-google_analytics:    UA-70082859-1
+#google_analytics:    UA-70082859-1
 
 # poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
 # Custom vars
