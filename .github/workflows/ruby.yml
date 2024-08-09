@@ -28,5 +28,6 @@ jobs:
         path: tmp/.htmlproofer
         key: ${{ runner.os }}-htmlproofer
 
+    - run: bundle config set --local with ci
     - run: bundle install
     - run: bundle exec rake
