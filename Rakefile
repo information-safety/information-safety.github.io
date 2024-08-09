@@ -2,19 +2,11 @@
 
 abort('Please run this using `bundle exec rake`') unless ENV['BUNDLE_BIN_PATH']
 require 'html-proofer'
+require 'rubocop/rake_task'
 
-desc 'remove all local files'
-task :distclean do
-  sh 'rm -rf `cat .gitignore`'
-rescue StandardError => e
-  puts e
-end
-
-# TODO: bundle exec rake update does not work as expected
-desc 'update gems'
-task :update do
-  sh 'bundle update'
-  sh 'bundle clean'
+desc 'run rubocop'
+task :rubocop do
+  RuboCop::RakeTask.new
 rescue StandardError => e
   puts e
 end
@@ -80,4 +72,4 @@ task test: :build do
   end
 end
 
-task default: [:test]
+task default: %i[rubocop test]
