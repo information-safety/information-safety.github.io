@@ -7,4 +7,5 @@ _site/
 vendor/
 # additional excludes
 .DS_Store
+.ruby-lsp/
 tmp/
