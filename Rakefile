@@ -55,7 +55,6 @@ task test: :build do
     ignore_urls: [
       # URL not resolving
       # URLs time out
-      'https://research-repository.griffith.edu.au/bitstream/handle/10072/389308/Provan268657-Published.pdf?sequence=5',
       # URLs require authentication
       'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
       'https://societyinforisk.org/page-18117#Benninghoff21',
