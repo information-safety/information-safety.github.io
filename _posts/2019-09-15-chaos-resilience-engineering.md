@@ -25,7 +25,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 - [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 - [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
 - [Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/)
-- [Secure360](https://secure360.org)
+- [Secure360](https://www.secure360.org)
 
 ## Chaos & Resilience Engineering
 
