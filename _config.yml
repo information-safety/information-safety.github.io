@@ -13,19 +13,13 @@ plugins:
 
 # Optimize Jekyll
 exclude:
-  - .git
-  - .github
-  - .gitignore
-  - .rubocop.yml
-  - .ruby-version
-  - .vscode
-  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - Rakefile
   - bootstrap.sh
+  - clean.sh
   - poole-LICENSE.md
   - poole-sass.patch
   - tmp
