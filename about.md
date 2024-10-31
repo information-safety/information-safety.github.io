@@ -15,4 +15,4 @@ Information Safety is my personal blog focusing on adapting safety science to te
 
 ## Security Differently
 
-[Security Differently](/security-differently/) adapts concepts from [Safety Differently](https://www.google.com/books/edition/Safety_Differently/KGDiEAAAQBAJ?hl=en) and [Safety-II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf) to Cybersecurity.
+[Security Differently]({% post_url 2023-10-31-security-differently %}) adapts concepts from [Safety Differently](https://www.google.com/books/edition/Safety_Differently/KGDiEAAAQBAJ?hl=en) and [Safety-II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf) to Cybersecurity.
