@@ -34,7 +34,6 @@ masthead_links:
   About:             '/about/'
   Blog:              '/'
   Resources:         '/resources/'
-  Security Differently: '/security-differently/'
   Archive:           '/archive/'
 
 # Disqus settings
