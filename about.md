@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+
+Information Safety is my personal blog focusing on adapting safety science to technology and cybersecurity. You can find my older work at [transvasive.com](https://transvasive.com). I started [Security Differently](https://www.security-differently.com) to help organizations implement security using these principles.
+
 ## What is Information Safety?
 
 *Information Safety* is a reliability (or *resilience*) practice that uses methods originally developed for safety. Safety methods are being successfully applied to build and operate resilient software systems - systems that fail less often and recover from failure faster.
