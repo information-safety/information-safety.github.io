@@ -5,6 +5,9 @@ url:                 https://www.information-safety.org
 paginate:            3
 baseurl:             ""
 permalink:           pretty
+notice: >
+  Interested in applying lessons from safety to security?
+  Learn more at [security-differently.com](https://www.security-differently.com)!
 
 # Gems
 plugins:
