@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+{% if site.notice %}
+<div class="message">
+  <p>{{ site.notice | markdownify }}</p>
+</div>
+{% endif %}
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
