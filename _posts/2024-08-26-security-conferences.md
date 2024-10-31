@@ -2,6 +2,7 @@
 layout: post
 title: Security Conferences
 author: jabenninghoff
+tags: ["Security"]
 comments: true
 ---
 Someone on a local Slack group was looking for security conferences where they could present. Prompted by this, I went looking for a good list, and because I couldn't find one, I created one!
