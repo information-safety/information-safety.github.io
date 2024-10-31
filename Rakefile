@@ -57,6 +57,7 @@ task test: :build do
       # URLs time out
       # URLs require authentication
       'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
+      'https://societyinforisk.org/SiRAcon-20#LR220',
       'https://societyinforisk.org/page-18117#Benninghoff21',
       'https://societyinforisk.org/page-18130#Benninghoff22',
       'https://societyinforisk.org/siracon19#elliotnotebooks',
