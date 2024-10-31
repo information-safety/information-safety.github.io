@@ -2,6 +2,7 @@
 layout: post
 title: Measuring Security Effectiveness
 author: jabenninghoff
+tags: ["SIRAcon", "Secure360", "Security", "Talks"]
 comments: true
 ---
 The last "security" talk I'm cataloging this week is one that Sean Scott and I gave in some form a few times, based on Sean's work to measure the effectiveness of our Application Security Team.
