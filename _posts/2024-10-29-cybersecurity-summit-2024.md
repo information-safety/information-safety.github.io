@@ -23,4 +23,4 @@ My slides with notes, including references, are [here](/assets/cybersecurity-sum
 
 ## Video
 
-The talk was recorded, and I will post a link when it becomes available!
+The talk was recorded, and if you attended the conference, you can watch the password-protected video [here](https://vimeo.com/1029705768). (The password was shared with attendees)
