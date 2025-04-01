@@ -10,3 +10,6 @@ bundle config --local path vendor/bundle
 bundle config --local with ci
 bundle install
 bundle package
+
+# add default GitHub Actions platform
+bundle lock --add-platform x86_64-linux
