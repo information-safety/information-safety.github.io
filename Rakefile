@@ -32,8 +32,8 @@ task test: :build do
     typhoeus:
     {
       followlocation: true,
-      connecttimeout: 20,   # default: 10
-      timeout: 60           # default: 30
+      connecttimeout: 30,   # default: 10
+      timeout: 90           # default: 30
     },
     hydra: { max_concurrency: 50 },
     check_external_hash: true,
