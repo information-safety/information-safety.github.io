@@ -23,7 +23,7 @@ The paper also recommends providing a mechanism to report suspicious emails, lik
 
 What does the data say? Outside the academic literature, a series of reports by Cyentia and Elevate Security offer additional insights.
 
-The [first report](https://elevatesecurity.com/resource/cyentia-elevating-human-attack-surface-management/), published in 2021, had a number of interesting findings:
+The [first report](https://web.archive.org/web/20220728175509/https://elevatesecurity.com/wp-content/uploads/2021/05/Elevate_Human-Attack-Surface_Final_May4.pdf), published in 2021, had a number of interesting findings:
 
 - Completing training 1-3 times reduces average click rates, but performance gets progressively worse for 4 and 5 times; average training rates for 5 training sessions was *higher* than none at all!
 - Sending more simulation emails decrease average click rates, even at high numbers of simulations, but flattens out just below 5%
@@ -32,7 +32,7 @@ Similar results are reported in the literature review paper: security fatigue is
 
 Importantly, the Cyentia/Elevate report also noted that 100% of organizations eventually click or are compromised - that is, no matter how much you train, someone within your organization will click the phishing link.
 
-A [second report](https://elevatesecurity.com/resource/the-size-and-shape-of-workforce-risk/) studied the problem in greater detail, finding that:
+A [second report](https://8218465.fs1.hubspotusercontent-na1.net/hubfs/8218465/Cyentia%20-%20The%20Size%20and%20Shape%20of%20Workforce%20Risk.pdf) studied the problem in greater detail, finding that:
 
 > - Some users get many more phishing emails than others (100s per year vs. a few).
 > - The more emails a department gets the better they are at blocking them.
@@ -42,7 +42,7 @@ A [second report](https://elevatesecurity.com/resource/the-size-and-shape-of-wor
 
 What the analysis showed was that nearly 80% of users never click a phishing link, and 4% account for 80% of clicks - a small number of high-risk users are the biggest source of phishing clicks.
 
-(A [third report](https://go.elevatesecurity.com/high-risk-users-and-where-to-find-them) studied the question of high-risk users in greater detail.)
+(A [third report](https://8218465.fs1.hubspotusercontent-na1.net/hubfs/8218465/Elevate%20High%20Risk%20Users%20and%20Where%20to%20Find%20Them.pdf) studied the question of high-risk users in greater detail.)
 
 ## My Experience
 
