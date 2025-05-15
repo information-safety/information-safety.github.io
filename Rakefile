@@ -31,8 +31,8 @@ task test: :build do
   options = {
     typhoeus:
     {
-      connecttimeout: 30,
-      timeout: 120
+      connecttimeout: 60,
+      timeout: 300
     },
     check_external_hash: true,
     check_internal_hash: true,
