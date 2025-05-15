@@ -29,6 +29,11 @@ end
 desc 'verify links'
 task test: :build do
   options = {
+    typhoeus:
+    {
+      connecttimeout: 30,
+      timeout: 120
+    },
     check_external_hash: true,
     check_internal_hash: true,
     check_favicon: true,
