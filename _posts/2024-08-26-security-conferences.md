@@ -13,7 +13,7 @@ Here's my list of high-quality conferences where I've attended, presented, or wo
 
 There are two notable security conferences in Minnesota, Secure360 and the Cybersecurity Summit.
 
-- [Secure360](https://www.secure360.org): a strong regional conference held in May, currently at the conference center at Mystic Lake in Prior Lake. It's been held for almost 20 years and was formed when the local chapters of security professional associations [banded together](https://umsafoundation.org/about/comarketing/) to put on a conference (ISSA, ASIS, BCPA, ISFA, ISACA). (A photo of my 2024 talk, [Security Differently](https://www.information-safety.org/2024/05/15/secure-360-2024/) is the top center photo [here](https://www.secure360.org/event/2025Secure360/home))
+- [Secure360](https://www.secure360.org): a strong regional conference held in May, currently at the conference center at Mystic Lake in Prior Lake. It's been held for almost 20 years and was formed when the local chapters of security professional associations [banded together](https://umsafoundation.org/about/comarketing/) to put on a conference (ISSA, ASIS, BCPA, ISFA, ISACA). (A photo of my 2024 talk, [Security Differently]({% post_url 2024-05-15-secure360-2024 %}) is the top center photo [here](https://www.secure360.org/event/2025Secure360/home))
 - [Cybersecurity Summit](https://www.cybersecuritysummit.org): the other major security conference in MN, held in October, now in its 14th year. It was started by the University of MN in partnership with MN-based corporations, other academic institutions, and government partners.
 
 ## SiRA
