@@ -5,7 +5,7 @@ author: jabenninghoff
 tags: ["Safety", "Security Differently"]
 comments: true
 ---
-**Update:** I [gave a talk at Secure360 2024]({% post_url  2024-05-15-secure-360-2024 %}) on Security Differently!
+**Update:** I [gave a talk at Secure360 2024]({% post_url  2024-05-15-secure360-2024 %}) on Security Differently!
 
 For a while, I've been seeing evidence that cybersecurity, especially traditional security, has been stagnant; adding security controls hasn't appreciably improved outcomes and we continue to struggle with basic problems like vulnerabilities. (as Cyentia discovered and reported in its [Prioritization to Prediction](https://www.cyentia.com/pithy-p2p/) series, organizations of all sizes only fix about 10% of their vulnerabilities in any given month)
 

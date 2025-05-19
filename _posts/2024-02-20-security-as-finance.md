@@ -5,7 +5,7 @@ author: jabenninghoff
 tags: ["Security Differently"]
 comments: true
 ---
-**Update:** I [gave a talk at Secure360 2024]({% post_url  2024-05-15-secure-360-2024 %}) on Security Differently, which included this discussion of the CISO role and a promotional video about how the CISO should be like the CFO.
+**Update:** I [gave a talk at Secure360 2024]({% post_url  2024-05-15-secure360-2024 %}) on Security Differently, which included this discussion of the CISO role and a promotional video about how the CISO should be like the CFO.
 
 Lately I've been thinking about the role of the CISO and Security and how it compares to the CFO and Finance. It started with two simple questions: "Who is responsible for security?" and "Who is responsible for meeting your budget?"
 
