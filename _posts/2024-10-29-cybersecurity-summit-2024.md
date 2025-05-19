@@ -5,7 +5,7 @@ author: jabenninghoff
 tags: ["Security Differently", "Talks"]
 comments: true
 ---
-Today I spoke at the 14th annual [Cyber Security Summit](http://cybersecuritysummit.org)! My talk, *Security Differently*, was a slightly shorter version of the one I gave at [Secure 360]({% post_url 2024-05-15-secure-360-2024 %}).
+Today I spoke at the 14th annual [Cyber Security Summit](http://cybersecuritysummit.org)! My talk, *Security Differently*, was a slightly shorter version of the one I gave at [Secure 360]({% post_url 2024-05-15-secure360-2024 %}).
 
 I enjoyed presenting in the main ballroom, and got positive feedback from attendees afterwards - I only wish I had more time to answer questions!
 
