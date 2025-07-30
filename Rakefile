@@ -56,7 +56,7 @@ task test: :build do
       }
     },
     enforce_https: false,
-    ignore_status_codes: [403, 503, 999],
+    ignore_status_codes: [403, 429, 503, 999],
     ignore_urls: [
       # URL not resolving
       # URLs time out
