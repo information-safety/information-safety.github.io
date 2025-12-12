@@ -59,6 +59,7 @@ task test: :build do
     ignore_status_codes: [403, 429, 503, 999],
     ignore_urls: [
       # URL not resolving
+      'https://mngts.egnyte.com/fl/t2g1wNfsG3',
       # URLs time out
       # URLs require authentication
       'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
