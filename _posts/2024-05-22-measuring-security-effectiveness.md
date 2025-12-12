@@ -32,7 +32,7 @@ We presented the talk on four different occasions, all virtual due to the pandem
 - In August 2020, I gave a brief presentation based on our work at the SIRAcon Day 2 [lightning round](https://societyinforisk.org/SiRAcon-20#LR220) ([Slides](/assets/siracon-2020-lightning-round.pdf)).
 - Later in 2020, we gave the full presentation at an internal company technical conference. One attendee suggested we present at an external security conference, so we did!
 - In May 2021, we presented together at Secure360. Slides from that event are [here.](/assets/security-effectiveness-secure360-2021.pdf)
-- Finally, in October 2021, we presented again at the ISC2 Security Congress, with a few new slides, copy [here.](/assets/security-effectiveness-isc2-2021.pdf)
+- Finally, in October 2021, we presented again at the ISC2 Security Congress, with a few new slides, copy [here.](/assets/security-effectiveness-isc2-2021.pdf) A full recording of the talk is also available on the [ISC2 Events Site](https://events.isc2.org/p/s/measuring-security-effectiveness-647)! (free registration required)
 
 *Note:* the SIRAcon video is only available to SIRA members.
 
