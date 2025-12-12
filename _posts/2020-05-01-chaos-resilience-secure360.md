@@ -59,7 +59,7 @@ the incident management process](https://research.tilburguniversity.edu/en/publi
   - [Gremlin](https://www.gremlin.com)
 - Resilience Engineering -- fix stuff
   - [Resilience engineering papers](https://github.com/lorin/resilience-engineering) ([Where do I start?](https://github.com/lorin/resilience-engineering/blob/master/intro.md) page)
-  - [Learning from Incidents in Software](https://www.learningfromincidents.io)
+  - [Learning from Incidents in Software](https://web.archive.org/web/20250914144046/https://www.learningfromincidents.io/)
 - *DevOps -- build stuff*
   - *[Google DevOps](https://cloud.google.com/devops)*
   - *[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) - [Nicole Forsgren](https://nicolefv.com), Jez Humble, Gene Kim*
