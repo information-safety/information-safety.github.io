@@ -61,6 +61,7 @@ task test: :build do
       # URL not resolving
       'https://mngts.egnyte.com/fl/t2g1wNfsG3',
       # URLs time out
+      'https://education.rstudio.com/learn/beginner',
       # URLs require authentication
       'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
       'https://societyinforisk.org/SiRAcon-20#LR220',
