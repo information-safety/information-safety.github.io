@@ -1,0 +1,7 @@
+# linguist overrides (https://github.com/github-linguist/linguist/blob/main/docs/overrides.md)
+.vscode/** linguist-vendored
+README.md linguist-documentation
+
+# detect Markdown, YAML
+*.md linguist-detectable
+*.yml linguist-detectable
