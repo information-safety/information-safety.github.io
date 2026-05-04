@@ -9,7 +9,7 @@ Today I spoke at the 14th annual [Cyber Security Summit](https://www.cybersecuri
 
 I enjoyed presenting in the main ballroom, and got positive feedback from attendees afterwards - I only wish I had more time to answer questions!
 
-Here is the link I shared in the QR code at the end: <https://bento.me/jbenninghoff>.
+Here is the link I shared in the QR code at the end: [https://bento.me/jbenninghoff](https://web.archive.org/web/20260207094950/https://bento.me/jbenninghoff).
 
 ## Session Description
 
