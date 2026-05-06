@@ -20,7 +20,7 @@ My story is told in three acts: My journey to find chaos engineering (ACT I), Ch
 - [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) ([video](https://www.youtube.com/watch?v=2S0k12uZR14))
 - [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 - [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
-- [TCD: Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/)
+- [TCD: Managing Risk and System Change](https://www.tcd.ie/courses/postgraduate/courses/managing-risk-and-system-change-msconline/)
 - [Lund: Human Factors &amp; System Safety](https://www.humanfactors.lth.se)
 
 ## ACT II: Chaos & Resilience Engineering

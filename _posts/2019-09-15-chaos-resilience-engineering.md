@@ -24,7 +24,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 - [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) ([video](https://www.youtube.com/watch?v=2S0k12uZR14))
 - [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 - [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
-- [Managing Risk and System Change](https://psychology.tcd.ie/postgraduate/msc-riskandchange/)
+- [Managing Risk and System Change](https://www.tcd.ie/courses/postgraduate/courses/managing-risk-and-system-change-msconline/)
 - [Secure360](https://www.secure360.org)
 
 ## Chaos & Resilience Engineering
