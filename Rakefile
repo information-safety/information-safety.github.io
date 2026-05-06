@@ -63,7 +63,8 @@ task test: :build do
       # URLs time out
       'https://education.rstudio.com/learn/beginner/',
       'https://www.cybersecuritysummit.org',
-      # URLs require authentication
+      # URLs require authentication/CAPTCHA
+      'https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1131&context=ecis2007',
       'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
       'https://societyinforisk.org/SiRAcon-20#LR220',
       'https://societyinforisk.org/page-18117#Benninghoff21',
