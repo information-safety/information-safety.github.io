@@ -6,7 +6,8 @@ set -ex # halt script on error, echo on
 # rbenv install "$(cat .ruby-version)"
 
 # per-project gems, see https://guilhermesimoes.github.io/blog/installing-gems-per-project-directory
-bundle config --local path vendor/bundle
-bundle config --local with ci
+gem update --system # use Bundler 4.0.13+
+bundle config set --local path vendor/bundle
+bundle config set --local with ci
 bundle install
 bundle package
