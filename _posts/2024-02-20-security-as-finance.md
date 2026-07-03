@@ -17,7 +17,7 @@ Why the difference? I believe that organizations understand that while Finance c
 
 ## The need for change
 
-While there is [evidence](https://www.cybsafe.com/press/what-your-workforce-wishes-the-cyber-team-knew/) that attitudes towards the cybersecurity team are changing, I believe recent regulatory actions will accelerate this change.
+While there is [evidence](https://web.archive.org/web/20251115002643/https://www.cybsafe.com/press/what-your-workforce-wishes-the-cyber-team-knew/) that attitudes towards the cybersecurity team are changing, I believe recent regulatory actions will accelerate this change.
 
 With the new SEC cybersecurity incident disclosure [rule](https://www.sec.gov/news/press-release/2023-139) and [action](https://www.sec.gov/news/press-release/2023-227) against the CISO of SolarWinds, I believe cybersecurity is having its Enron moment. Especially when the SolarWinds action was announced, I saw comments along the lines of "if the SEC can take action against a CISO for a breach, no one is safe," which I think misses the point. Both the disclosure rule and the action against the SolarWinds CISO are measures to ensure proper reporting of security posture, much the same as how the Sarbanes-Oxley Act established rules for financial reporting with clear legal responsibilities for the CFO.
 
