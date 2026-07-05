@@ -31,7 +31,7 @@ My story is told in three acts: My journey to find chaos engineering (ACT I), Ch
 - [Chaos Engineering: System Resiliency in Practice](http://shop.oreilly.com/product/0636920203957.do) (new book, 2020)
 - [Principles of Chaos Engineering](https://principlesofchaos.org)
 - [Resilience Engineering](https://www.crcpress.com/Resilience-Engineering-Concepts-and-Precepts/Woods-Hollnagel/p/book/9780754649045) Book
-- [The Four Potentials of Resilience](https://erikhollnagel.com/ideas/resilience%20assessment%20grid.html)
+- [The Four Potentials of Resilience](https://web.archive.org/web/20260317162249/https://erikhollnagel.com/ideas/resilience%20assessment%20grid.html)
 - [Etsy Blameless Post-Mortem](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 
 ## ACT III: What I’ve learned so far
