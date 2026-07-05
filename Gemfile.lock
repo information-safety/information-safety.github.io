@@ -19,7 +19,7 @@ GEM
       public_suffix (>= 2.0.2, < 8.0)
     afm (1.0.0)
     ast (2.4.3)
-    async (2.40.0)
+    async (2.41.0)
       console (~> 1.29)
       fiber-annotation
       io-event (~> 1.11)
@@ -143,7 +143,7 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    io-event (1.16.4)
+    io-event (1.17.0)
     jekyll (3.10.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -390,7 +390,7 @@ CHECKSUMS
   addressable (2.9.0) sha256=7fdf6ac3660f7f4e867a0838be3f6cf722ace541dd97767fa42bc6cfa980c7af
   afm (1.0.0) sha256=5bd4d6f6241e7014ef090985ec6f4c3e9745f6de0828ddd58bc1efdd138f4545
   ast (2.4.3) sha256=954615157c1d6a382bc27d690d973195e79db7f55e9765ac7c481c60bdb4d383
-  async (2.40.0) sha256=52c7cf92b7e12fec4054f721b2fc9df401940d65a076f7e771cd6af18947af66
+  async (2.41.0) sha256=c721ff2185760e9014639776aa1387a28012055c25aa960ff46f8478ed34acc5
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
   benchmark (0.5.0) sha256=465df122341aedcb81a2a24b4d3bd19b6c67c1530713fd533f3ff034e419236c
   bigdecimal (3.3.1) sha256=eaa01e228be54c4f9f53bf3cc34fe3d5e845c31963e7fcc5bedb05a4e7d52218
@@ -430,7 +430,7 @@ CHECKSUMS
   html-proofer (5.2.1) sha256=fdd958a7cbf9c3255fb96fe7cfc4e611f64e2706e469488a3326309ad007d2fd
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
-  io-event (1.16.4) sha256=98b04e3a5e374fe0ce20f69956d435a3430335920544e3c1a492bdf37c4bf6d6
+  io-event (1.17.0) sha256=665c8883c4b7066e8241427056ce43d4e01747ec3a61e4a7badfdc4a316bfb84
   jekyll (3.10.0) sha256=c4213b761dc7dfe7d499eb742d0476a02d8503e440c2610e19774ee7f0db8d90
   jekyll-avatar (0.8.0) sha256=ea736277c2de54a21300122096700517972a722d5c68ca83f8723b4999abfd4b
   jekyll-coffeescript (1.2.2) sha256=894e71c2071a834e76eb7e8044944440a0c81c2c7092532fed1503b13d331110
