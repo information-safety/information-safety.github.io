@@ -15,3 +15,8 @@ group :ci, optional: true do
   gem 'rubocop'
   gem 'rubocop-rake'
 end
+
+group :vscode, optional: true do
+  gem 'debug'
+  gem 'ruby-lsp'
+end
