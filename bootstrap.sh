@@ -8,6 +8,6 @@ set -ex # halt script on error, echo on
 # per-project gems, see https://guilhermesimoes.github.io/blog/installing-gems-per-project-directory
 gem update --system # use Bundler 4.0.13+
 bundle config set --local path vendor/bundle
-bundle config set --local with ci
+bundle config set --local with ci:vscode
 bundle install
 bundle package
