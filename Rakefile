@@ -62,6 +62,7 @@ task test: :build do
       'https://mngts.egnyte.com/fl/t2g1wNfsG3',
       # URLs time out
       'https://education.rstudio.com/learn/beginner/',
+      'http://sunnyday.mit.edu',
       'https://www.cybersecuritysummit.org',
       # URLs require authentication/CAPTCHA
       'https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1131&context=ecis2007',
