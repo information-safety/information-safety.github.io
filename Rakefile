@@ -62,7 +62,9 @@ task test: :build do
       'https://mngts.egnyte.com/fl/t2g1wNfsG3',
       # URLs time out
       'https://education.rstudio.com/learn/beginner/',
-      'https://psas.scripts.mit.edu/.*',
+      'https://psas.scripts.mit.edu/home/',
+      'https://psas.scripts.mit.edu/home/materials/',
+      'https://psas.scripts.mit.edu/home/2016-stamp-workshop/',
       'http://sunnyday.mit.edu',
       'https://www.cybersecuritysummit.org',
       # URLs require authentication/CAPTCHA
