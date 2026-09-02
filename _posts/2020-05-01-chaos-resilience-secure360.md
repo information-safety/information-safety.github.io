@@ -44,7 +44,7 @@ the incident management process](https://research.tilburguniversity.edu/en/publi
   - Dossier 1: A sociotechnical case study of an IT major incident management team
 - Lesson 2: Safety has risk assessment methods that can be applied to computer systems
   - [NIST 800-30](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)
-  - [STPA Handbook](http://psas.scripts.mit.edu/home/materials/)
+  - [STPA Handbook](https://psas.scripts.mit.edu/home/materials/)
   - [FMEA](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis) (Failure mode and effects analysis)
   - [GameDay Discussion](https://queue.acm.org/detail.cfm?id=2371297) (2012)
   - Dossier 3: A comparison of NIST and STPA risk assessment methods applied to an informational website

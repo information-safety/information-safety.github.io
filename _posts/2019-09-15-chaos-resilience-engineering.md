@@ -55,5 +55,5 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 - [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness#Theoretical_model)
 - [Safety II](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf)
 - [FMEA](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
-- [STPA/CAST Handbooks](http://psas.scripts.mit.edu/home/materials/)
+- [STPA/CAST Handbooks](https://psas.scripts.mit.edu/home/materials/)
 - [Veracode State of the Software V9](https://info.veracode.com/report-state-of-software-security-volume-9.html)
