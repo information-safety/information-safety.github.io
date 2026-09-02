@@ -21,7 +21,7 @@ I'm giving a talk next Tuesday (9/24) at at the [September OWASP MSP Meeting](ht
 
 - [Risk Homeostasis](https://en.wikipedia.org/wiki/Risk_compensation#Risk_homeostasis)
 - [The Checklist Manifesto](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)
-- [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) ([video](https://www.youtube.com/watch?v=2S0k12uZR14))
+- [How Complex Systems Fail](https://web.archive.org/web/20200709194039/http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) ([video](https://www.youtube.com/watch?v=2S0k12uZR14))
 - [Engineering a Safer World](https://mitpress.mit.edu/books/engineering-safer-world)
 - [STAMP/STPA/CAST](https://psas.scripts.mit.edu/home/)
 - [Managing Risk and System Change](https://www.tcd.ie/courses/postgraduate/courses/managing-risk-and-system-change-msconline/)
