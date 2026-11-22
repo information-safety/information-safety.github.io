@@ -9,7 +9,7 @@ updates:
       interval: "monthly"
     versioning-strategy: increase
     cooldown:
-      default-days: 7
+      default-days: 3
     groups:
       ruby:
         patterns:
@@ -20,7 +20,7 @@ updates:
     schedule:
       interval: "monthly"
     cooldown:
-      default-days: 7
+      default-days: 3
     groups:
       actions:
         patterns:
